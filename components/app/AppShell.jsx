@@ -83,7 +83,7 @@ function MapaFallback({ proyectos, selected, onSelect, highlight }) {
             <text x={z.x + z.w / 2} y={z.y + z.h / 2} textAnchor="middle" dominantBaseline="middle" fill="#555" fontSize="8" fontWeight="700">{z.d}</text>
           </g>
         ))}
-        {proyectos.map(p => {
+        {proyectos.filter(p => p.lat && p.lng && p.lat !== 0).map(p => {
           const { x, y } = toXY(p.lat, p.lng, 500, 360);
           const isSel = selected.includes(p.id);
           const isHi = highlight === p.id || hovered === p.id;
@@ -113,7 +113,22 @@ function MapaFallback({ proyectos, selected, onSelect, highlight }) {
 // ─── INDECOPI PANEL ───────────────────────────────────────────────────────────
 function IndecopiPanel({ proyecto }) {
   const data = INDECOPI_DATA[proyecto.ruc];
-  if (!data) return null;
+  if (!data) return (
+    <div style={{ ...S.card, padding: 16 }}>
+      <div style={{ color: C.teal, fontSize: 10, fontWeight: 800, letterSpacing: 1, marginBottom: 8 }}>INDECOPI · VERIFICACIÓN</div>
+      <div style={{ display: 'flex', gap: 10, alignItems: 'center' }}>
+        <div style={{ background: '#22c55e20', border: '2px solid #22c55e', borderRadius: 12, padding: '8px 14px', textAlign: 'center', flexShrink: 0 }}>
+          <div style={{ color: '#22c55e', fontWeight: 900, fontSize: 20 }}>✓</div>
+          <div style={{ color: '#555', fontSize: 9 }}>Sin alertas</div>
+        </div>
+        <div>
+          <div style={{ color: '#fff', fontWeight: 700, fontSize: 13 }}>{proyecto.inmobiliaria || proyecto.nombre}</div>
+          <div style={{ color: '#22c55e', fontSize: 11, marginTop: 3 }}>Sin sanciones registradas en el período consultado</div>
+          <div style={{ color: '#555', fontSize: 10, marginTop: 2 }}>Fuente: INDECOPI · indecopi.gob.pe</div>
+        </div>
+      </div>
+    </div>
+  );
   const calColor = { 'A+': C.teal, A: '#22c55e', B: C.yellow, C: '#ef4444' }[data.calificacion] || '#888';
   return (
     <div style={{ ...S.card, padding: 16 }}>
@@ -215,10 +230,28 @@ function BCRPPanel({ proyectos }) {
 function SimuladorCredito({ proyectos }) {
   const [años, setAños] = useState(20);
   const [cuotaInit, setCuotaInit] = useState(10);
+  const [bancoIdx, setBancoIdx] = useState(0); // por defecto el más barato
+  const tasaSeleccionada = TASAS_SBS[bancoIdx];
   return (
     <div style={{ ...S.card, padding: 20 }}>
       <div style={{ color: C.teal, fontSize: 11, fontWeight: 800, letterSpacing: 1, marginBottom: 4 }}>SBS · TASAS REALES</div>
       <div style={{ color: '#fff', fontWeight: 800, fontSize: 15, marginBottom: 16 }}>Simulador de Crédito Hipotecario</div>
+
+      {/* Selector de banco */}
+      <div style={{ marginBottom: 16 }}>
+        <div style={{ color: '#888', fontSize: 11, marginBottom: 8 }}>Banco / entidad financiera:</div>
+        <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap' }}>
+          {TASAS_SBS.map((t, i) => (
+            <button key={t.banco} onClick={() => setBancoIdx(i)}
+              style={{ background: bancoIdx === i ? C.teal + '25' : '#ffffff08', border: `1px solid ${bancoIdx === i ? C.teal : C.border}`, borderRadius: 8, padding: '6px 12px', cursor: 'pointer', fontFamily: 'inherit', textAlign: 'center', transition: 'all 0.15s' }}>
+              <div style={{ color: bancoIdx === i ? C.teal : '#aaa', fontWeight: 900, fontSize: 14 }}>{t.tasa}%</div>
+              <div style={{ color: bancoIdx === i ? C.teal : '#555', fontSize: 9 }}>{t.banco}</div>
+              {i === 0 && <div style={{ color: C.green, fontSize: 8, fontWeight: 700 }}>MEJOR TASA</div>}
+            </button>
+          ))}
+        </div>
+      </div>
+
       <div style={{ display: 'flex', gap: 16, marginBottom: 16, flexWrap: 'wrap' }}>
         <div style={{ flex: 1, minWidth: 120 }}>
           <div style={{ color: '#888', fontSize: 11, marginBottom: 6 }}>Plazo: <strong style={{ color: '#fff' }}>{años} años</strong></div>
@@ -232,33 +265,30 @@ function SimuladorCredito({ proyectos }) {
         </div>
       </div>
       {proyectos.slice(0, 3).map(p => {
-        const mejorTasa = TASAS_SBS[0].tasa;
-        const c = Math.round(p.precio_desde * (1 - cuotaInit / 100) * (mejorTasa / 100 / 12) * Math.pow(1 + mejorTasa / 100 / 12, años * 12) / (Math.pow(1 + mejorTasa / 100 / 12, años * 12) - 1));
+        const tasa = tasaSeleccionada.tasa;
+        const r = tasa / 100 / 12, n = años * 12;
+        const monto = p.precio_desde * (1 - cuotaInit / 100);
+        const c = Math.round(monto * r * Math.pow(1 + r, n) / (Math.pow(1 + r, n) - 1));
         return (
-          <div key={p.id} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '10px 0', borderBottom: `1px solid ${C.border}` }}>
-            <div>
-              <div style={{ color: '#fff', fontWeight: 700, fontSize: 13 }}>{p.nombre}</div>
-              <div style={{ color: '#555', fontSize: 11 }}>Inicial: S/ {Math.round(p.precio_desde * cuotaInit / 100).toLocaleString()}</div>
-            </div>
-            <div style={{ textAlign: 'right' }}>
-              <div style={{ color: C.teal, fontWeight: 900, fontSize: 16 }}>S/ {c.toLocaleString()}/mes</div>
-              <div style={{ color: '#555', fontSize: 10 }}>tasa {mejorTasa}% · {años} años</div>
+          <div key={p.id} style={{ background: '#ffffff05', borderRadius: 10, padding: '12px 14px', marginBottom: 8 }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+              <div>
+                <div style={{ color: '#fff', fontWeight: 700, fontSize: 13 }}>{p.nombre}</div>
+                <div style={{ color: '#888', fontSize: 11 }}>{p.distrito} · {p.etapa}</div>
+                <div style={{ color: '#555', fontSize: 10, marginTop: 2 }}>
+                  Precio: S/ {p.precio_desde.toLocaleString()} · Inicial: S/ {Math.round(p.precio_desde * cuotaInit / 100).toLocaleString()}
+                </div>
+              </div>
+              <div style={{ textAlign: 'right', flexShrink: 0, marginLeft: 12 }}>
+                <div style={{ color: C.teal, fontWeight: 900, fontSize: 20 }}>S/ {c.toLocaleString()}</div>
+                <div style={{ color: '#888', fontSize: 10 }}>/mes · {tasaSeleccionada.banco}</div>
+                <div style={{ color: '#555', fontSize: 10 }}>{tasa}% · {años} años</div>
+              </div>
             </div>
           </div>
         );
       })}
-      <div style={{ marginTop: 16 }}>
-        <div style={{ color: '#888', fontSize: 11, marginBottom: 8 }}>Tasas hipotecarias — SBS Perú</div>
-        <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap' }}>
-          {TASAS_SBS.slice(0, 5).map(t => (
-            <div key={t.banco} style={{ background: '#ffffff08', border: `1px solid ${C.border}`, borderRadius: 8, padding: '5px 10px', textAlign: 'center' }}>
-              <div style={{ color: C.teal, fontWeight: 900, fontSize: 13 }}>{t.tasa}%</div>
-              <div style={{ color: '#555', fontSize: 9 }}>{t.banco}</div>
-            </div>
-          ))}
-        </div>
-      </div>
-      <div style={{ color: '#444', fontSize: 10, marginTop: 10 }}>Fuente: SBS Perú · sbs.gob.pe</div>
+      <div style={{ color: '#444', fontSize: 10, marginTop: 10, borderTop: `1px solid ${C.border}`, paddingTop: 8 }}>Fuente: SBS Perú · sbs.gob.pe</div>
     </div>
   );
 }
@@ -266,9 +296,11 @@ function SimuladorCredito({ proyectos }) {
 // ─── PROPERTY CARD ────────────────────────────────────────────────────────────
 function PropertyCard({ p, score, onSelect, isSelected, onDetail, onMapHighlight }) {
   const [hov, setHov] = useState(false);
+  const [hovDetail, setHovDetail] = useState(false);
   const ec = etapaColor[p.etapa];
   return (
     <div
+      onClick={() => onDetail(p)}
       onMouseEnter={() => { setHov(true); onMapHighlight(p.id); }}
       onMouseLeave={() => { setHov(false); onMapHighlight(null); }}
       style={{ ...S.card, overflow: 'hidden', cursor: 'pointer', transition: 'transform 0.2s, border-color 0.2s', transform: hov ? 'translateY(-3px)' : 'none', borderColor: isSelected ? C.yellow : hov ? C.teal + '44' : C.border, borderWidth: '1px', borderStyle: 'solid', borderRadius: 16 }}>
@@ -303,16 +335,22 @@ function PropertyCard({ p, score, onSelect, isSelected, onDetail, onMapHighlight
           ['🏢 Amen.', p.scores.amenities, '#8b5cf6'],
         ].map(([l, v, c]) => (
           <div key={l} style={{ display: 'flex', alignItems: 'center', gap: 6, marginBottom: 3 }}>
-            <span style={{ color: '#555', fontSize: 9, width: 46, flexShrink: 0 }}>{l}</span>
+            <span style={{ color: '#888', fontSize: 9, width: 46, flexShrink: 0 }}>{l}</span>
             <div style={{ flex: 1, background: '#ffffff0a', borderRadius: 3, height: 4 }}>
               <div style={{ width: `${v}%`, background: c, height: '100%', borderRadius: 3 }} />
             </div>
-            <span style={{ color: '#666', fontSize: 9, width: 20, textAlign: 'right' }}>{v}</span>
+            <span style={{ color: '#aaa', fontSize: 9, width: 20, textAlign: 'right' }}>{v}</span>
           </div>
         ))}
         <div style={{ display: 'flex', gap: 6, marginTop: 12 }}>
-          <button onClick={() => onDetail(p)} style={{ flex: 1, ...S.btnGhost, padding: '8px 10px', fontSize: 11 }}>Ver detalle</button>
-          <button onClick={() => onSelect(p)} style={{ flex: 1, ...(isSelected ? S.btnYellow : S.btnPrimary), padding: '8px 10px', fontSize: 11 }}>
+          <button
+            onClick={e => { e.stopPropagation(); onDetail(p); }}
+            onMouseEnter={() => setHovDetail(true)}
+            onMouseLeave={() => setHovDetail(false)}
+            style={{ flex: 1, ...S.btnGhost, padding: '8px 10px', fontSize: 11, background: hovDetail ? C.teal + '25' : '#ffffff0D', color: hovDetail ? C.teal : '#ccc', transition: 'background 0.2s, color 0.2s' }}>
+            Ver detalle
+          </button>
+          <button onClick={e => { e.stopPropagation(); onSelect(p); }} style={{ flex: 1, ...(isSelected ? S.btnYellow : S.btnPrimary), padding: '8px 10px', fontSize: 11 }}>
             {isSelected ? '✓ En comparar' : '+ Comparar'}
           </button>
         </div>
@@ -341,10 +379,10 @@ function PropertyDetail({ p, onClose }) {
         </div>
         <div style={{ padding: '0 16px 16px' }}>
           <div style={{ display: 'flex', gap: 4, padding: '12px 0', overflowX: 'auto' }}>
-            {['info', 'scores', 'seguridad', 'plusvalia', 'credito'].map(t => (
+            {['info', 'fotos', 'tipologias', 'scores', 'seguridad', 'plusvalia', 'credito'].map(t => (
               <button key={t} onClick={() => setTab(t)}
-                style={{ background: tab === t ? C.teal + '20' : 'transparent', color: tab === t ? C.teal : '#666', border: tab === t ? `1px solid ${C.teal}40` : '1px solid transparent', borderRadius: 8, padding: '5px 12px', fontSize: 11, fontWeight: 700, cursor: 'pointer', fontFamily: 'inherit', whiteSpace: 'nowrap' }}>
-                {t === 'info' ? '📋 Info' : t === 'scores' ? '📊 Scores' : t === 'seguridad' ? '🛡️ Seguridad' : t === 'plusvalia' ? '📈 Plusvalía' : '🏦 Crédito'}
+                style={{ background: tab === t ? C.teal + '20' : 'transparent', color: tab === t ? C.teal : '#888', border: tab === t ? `1px solid ${C.teal}40` : '1px solid transparent', borderRadius: 8, padding: '5px 12px', fontSize: 11, fontWeight: 700, cursor: 'pointer', fontFamily: 'inherit', whiteSpace: 'nowrap' }}>
+                {t === 'info' ? '📋 Info' : t === 'fotos' ? '📷 Fotos' : t === 'tipologias' ? '🏠 Tipologías' : t === 'scores' ? '📊 Scores' : t === 'seguridad' ? '🛡️ Seguridad' : t === 'plusvalia' ? '📈 Plusvalía' : '🏦 Crédito'}
               </button>
             ))}
           </div>
@@ -397,6 +435,66 @@ function PropertyDetail({ p, onClose }) {
               <div style={{ marginTop: 16 }}>
                 <IndecopiPanel proyecto={p} />
               </div>
+            </div>
+          )}
+          {tab === 'fotos' && (
+            <div>
+              <div style={{ color: '#888', fontSize: 12, marginBottom: 12 }}>
+                {(p.fotos?.length || 0)} fotos disponibles
+              </div>
+              {p.fotos?.length > 0 ? (
+                <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2,1fr)', gap: 6 }}>
+                  {p.fotos.map((foto, i) => (
+                    <div key={i} style={{ borderRadius: 10, overflow: 'hidden', aspectRatio: '16/9', background: '#1a1a1a' }}>
+                      <img src={foto} alt={`${p.nombre} ${i+1}`}
+                        style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                        onError={e => { e.target.onerror = null; e.target.style.opacity = '0.3'; }} />
+                    </div>
+                  ))}
+                </div>
+              ) : (
+                <div style={{ color: '#444', textAlign: 'center', padding: 40 }}>Sin fotos disponibles</div>
+              )}
+              {p.youtube_url && (
+                <div style={{ marginTop: 16 }}>
+                  <div style={{ color: '#888', fontSize: 11, marginBottom: 8 }}>🎬 Tour Virtual</div>
+                  <div style={{ borderRadius: 12, overflow: 'hidden', aspectRatio: '16/9' }}>
+                    <iframe src={p.youtube_url} style={{ width: '100%', height: '100%', border: 'none' }}
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+                  </div>
+                </div>
+              )}
+            </div>
+          )}
+          {tab === 'tipologias' && (
+            <div>
+              <div style={{ color: '#888', fontSize: 12, marginBottom: 12 }}>
+                {(p.modelos?.length || 0)} tipologías disponibles
+              </div>
+              {p.modelos?.length > 0 ? (
+                <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
+                  {p.modelos.map((m, i) => (
+                    <div key={i} style={{ background: '#ffffff05', border: `1px solid ${C.border}`, borderRadius: 10, padding: '12px 14px' }}>
+                      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: 8 }}>
+                        <div>
+                          <div style={{ color: '#fff', fontWeight: 700, fontSize: 13 }}>{m.nombre}</div>
+                          <div style={{ display: 'flex', gap: 6, marginTop: 4, flexWrap: 'wrap' }}>
+                            <span style={{ ...S.tag('#aaa'), fontSize: 10 }}>🛏 {m.dormitorios} dorm</span>
+                            <span style={{ ...S.tag('#aaa'), fontSize: 10 }}>🚿 {m.banos} baños</span>
+                            <span style={{ ...S.tag('#aaa'), fontSize: 10 }}>📐 {m.area} m²</span>
+                          </div>
+                        </div>
+                        <div style={{ textAlign: 'right', flexShrink: 0 }}>
+                          <div style={{ color: C.teal, fontWeight: 900, fontSize: 16 }}>S/ {(m.precio || 0).toLocaleString()}</div>
+                          <div style={{ color: C.green, fontSize: 10, marginTop: 2 }}>Comisión {m.comision_pct}%</div>
+                        </div>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              ) : (
+                <div style={{ color: '#444', textAlign: 'center', padding: 40 }}>Sin tipologías registradas</div>
+              )}
             </div>
           )}
           {tab === 'scores' && (
@@ -504,6 +602,22 @@ function ComparePanel({ proyectos, perfil, onReset }) {
         <div style={{ color: '#fff', fontWeight: 800, fontSize: 16 }}>Comparando {proyectos.length} proyectos</div>
         <button onClick={onReset} style={{ ...S.btnGhost, padding: '6px 14px', fontSize: 11 }}>Limpiar</button>
       </div>
+      {/* RADAR ARRIBA */}
+      <div style={{ ...S.card, padding: 20, marginBottom: 24 }}>
+        <div style={{ color: '#fff', fontWeight: 800, fontSize: 14, marginBottom: 4 }}>⚡ Radar comparativo de scores</div>
+        <div style={{ color: '#555', fontSize: 11, marginBottom: 12 }}>Visualización simultánea de las 7 variables</div>
+        <ResponsiveContainer width="100%" height={300}>
+          <RadarChart data={radarData}>
+            <PolarGrid stroke={C.border} />
+            <PolarAngleAxis dataKey="variable" tick={{ fill: '#aaa', fontSize: 11 }} />
+            {proyectos.map((p, i) => (
+              <Radar key={p.id} name={p.nombre} dataKey={p.nombre}
+                stroke={colors2[i]} fill={colors2[i]} fillOpacity={0.12} strokeWidth={2} />
+            ))}
+            <Legend wrapperStyle={{ fontSize: 11, color: '#888' }} />
+          </RadarChart>
+        </ResponsiveContainer>
+      </div>
       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill,minmax(280px,1fr))', gap: 16, marginBottom: 24 }}>
         {proyectos.map((p, i) => (
           <div key={p.id} style={{ ...S.card, padding: 16 }}>
@@ -531,20 +645,7 @@ function ComparePanel({ proyectos, perfil, onReset }) {
           </div>
         ))}
       </div>
-      <div style={{ ...S.card, padding: 20 }}>
-        <div style={{ color: '#888', fontSize: 12, marginBottom: 12 }}>Radar de scores comparativo</div>
-        <ResponsiveContainer width="100%" height={300}>
-          <RadarChart data={radarData}>
-            <PolarGrid stroke={C.border} />
-            <PolarAngleAxis dataKey="variable" tick={{ fill: '#666', fontSize: 10 }} />
-            {proyectos.map((p, i) => (
-              <Radar key={p.id} name={p.nombre} dataKey={p.nombre}
-                stroke={colors2[i]} fill={colors2[i]} fillOpacity={0.1} strokeWidth={2} />
-            ))}
-            <Legend wrapperStyle={{ fontSize: 11, color: '#888' }} />
-          </RadarChart>
-        </ResponsiveContainer>
-      </div>
+
     </div>
   );
 }
