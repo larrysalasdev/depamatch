@@ -1,0 +1,13 @@
+{
+  "name": "depamatch-scrapers",
+  "version": "1.0.0",
+  "description": "Scrapers automáticos para DepaMatch",
+  "scripts": {
+    "scrape": "node nexoagentes-scraper.js",
+    "upload": "node nexo-to-supabase.js",
+    "all": "node nexoagentes-scraper.js && node nexo-to-supabase.js"
+  },
+  "dependencies": {
+    "playwright-chromium": "^1.44.0"
+  }
+}

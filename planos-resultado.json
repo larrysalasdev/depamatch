@@ -1,0 +1,1613 @@
+[
+  {
+    "id": 1,
+    "id_nexo": 3796,
+    "nombre": "LUMA - SAN MIGUEL",
+    "modelos": [
+      {
+        "nombre": "Flat A9  Piso: 11  Solicitar cita  (1 unidad) Desde S/. 216,500  (Ref. $ 63,415)  1 dorm- 1 baños 40.7 m2Pisos: 11",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1fa25c23d_xm.png"
+      },
+      {
+        "nombre": "Flat A8  Pisos: Entre 2 al 8  Solicitar cita  (7 unidades) Desde S/. 219,448  (Ref. $ 64,279)  1 dorm- 1 baños 40.48 m2Pisos: Entre 2 al 8",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1f72a7011_xm.png"
+      },
+      {
+        "nombre": "Flat A7b  Piso: 2  Solicitar cita  (1 unidad) Desde S/. 227,544  (Ref. $ 66,650)  1 dorm- 1 baños 40.48 m2Pisos: 2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1c6eecf9e_xm.png"
+      },
+      {
+        "nombre": "Flat A7  Pisos: Entre 3 al 11  Solicitar cita  (7 unidades) Desde S/. 340,808  (Ref. $ 99,827)  3 dorm- 2 baños 63.04 m2Pisos: Entre 3 al 11",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma-san-miguel/planos-luma-san-miguel-68b86b5cef611_xm.png"
+      },
+      {
+        "nombre": "Flat A6b  Piso: 2  Solicitar cita  (1 unidad) Desde S/. 369,552  (Ref. $ 108,246)  2 dorm- 2 baños 63.67 m2Pisos: 2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma-san-miguel/planos-luma-san-miguel-68b86b1931215_xm.png"
+      },
+      {
+        "nombre": "Flat A6  Pisos: Entre 3 al 9  Solicitar cita  (7 unidades) Desde S/. 299,470  (Ref. $ 87,718)  2 dorm- 2 baños 53.05 m2Pisos: Entre 3 al 9",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1f079eaaa_xm.png"
+      },
+      {
+        "nombre": "Flat A5b  Piso: 2  Solicitar cita  (1 unidad) Desde S/. 322,512  (Ref. $ 94,467)  2 dorm- 2 baños 55.27 m2Pisos: 2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1bd17593c_xm.png"
+      },
+      {
+        "nombre": "Flat A5  Pisos: Entre 3 al 12  Solicitar cita  (10 unidades) Desde S/. 291,300  (Ref. $ 85,325)  2 dorm- 2 baños 55.66 m2Pisos: Entre 3 al 12",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1ee40a216_xm.png"
+      },
+      {
+        "nombre": "Flat A4  Pisos: Entre 3 al 11  Solicitar cita  (9 unidades) Desde S/. 303,108  (Ref. $ 88,784)  2 dorm- 2 baños 55.79 m2Pisos: Entre 3 al 11",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1eb8b458e_xm.png"
+      },
+      {
+        "nombre": "Flat A3  Pisos: Entre 3 al 11  Solicitar cita  (7 unidades) Desde S/. 215,150  (Ref. $ 63,020)  1 dorm- 1 baños 40.43 m2Pisos: Entre 3 al 11",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1e25c761d_xm.png"
+      },
+      {
+        "nombre": "Flat A2  Pisos: Entre 2 al 7  Solicitar cita  (6 unidades) Desde S/. 220,570  (Ref. $ 64,608)  1 dorm- 1 baños 40.7 m2Pisos: Entre 2 al 7",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1e03bf822_xm.png"
+      },
+      {
+        "nombre": "Flat A16  Pisos: Entre 4 al 11  Solicitar cita  (6 unidades) Desde S/. 267,800  (Ref. $ 78,442)  2 dorm- 2 baños 50.96 m2Pisos: Entre 4 al 11",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e20d35984a_xm.png"
+      },
+      {
+        "nombre": "Flat A15b  Piso: 2  Solicitar cita  (1 unidad) Desde S/. 283,088  (Ref. $ 82,920)  2 dorm- 2 baños 50.96 m2Pisos: 2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1dace416f_xm.png"
+      },
+      {
+        "nombre": "Flat A15  Pisos: Entre 3 al 10  Solicitar cita  (8 unidades) Desde S/. 269,900  (Ref. $ 79,057)  2 dorm- 2 baños 51.38 m2Pisos: Entre 3 al 10",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e20b075dd8_xm.png"
+      },
+      {
+        "nombre": "Flat A14b  Piso: 2  Solicitar cita  (1 unidad) Desde S/. 285,314  (Ref. $ 83,572)  2 dorm- 2 baños 51.38 m2Pisos: 2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1d8b06d39_xm.png"
+      },
+      {
+        "nombre": "Flat A14  Pisos: Entre 3 al 9  Solicitar cita  (7 unidades) Desde S/. 275,300  (Ref. $ 80,639)  2 dorm- 2 baños 52.46 m2Pisos: Entre 3 al 9",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e2091e843b_xm.png"
+      },
+      {
+        "nombre": "Flat A13  Pisos: Entre 3 al 12  Solicitar cita  (7 unidades) Desde S/. 262,120  (Ref. $ 76,778)  2 dorm- 2 baños 51.9 m2Pisos: Entre 3 al 12",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e2073c0f55_xm.png"
+      },
+      {
+        "nombre": "Flat A12b  Piso: 2  Solicitar cita  (1 unidad) Desde S/. 288,070  (Ref. $ 84,379)  2 dorm- 2 baños 51.9 m2Pisos: 2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1cee1a561_xm.png"
+      },
+      {
+        "nombre": "Flat A12  Pisos: Entre 3 al 8  Solicitar cita  (6 unidades) Desde S/. 272,131  (Ref. $ 79,710)  2 dorm- 2 baños 50.81 m2Pisos: Entre 3 al 8",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e203f582c4_xm.png"
+      },
+      {
+        "nombre": "Flat A11b  Piso: 2  Solicitar cita  (1 unidad) Desde S/. 282,293  (Ref. $ 82,687)  2 dorm- 2 baños 50.81 m2Pisos: 2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1ccf31e4c_xm.png"
+      },
+      {
+        "nombre": "Flat A11  Pisos: Entre 3 al 9  Solicitar cita  (6 unidades) Desde S/. 268,150  (Ref. $ 78,544)  2 dorm- 2 baños 51.03 m2Pisos: Entre 3 al 9",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e2004c4cbc_xm.png"
+      },
+      {
+        "nombre": "Flat A10b  Piso: 2  Solicitar cita  (1 unidad) Desde S/. 283,459  (Ref. $ 83,028)  2 dorm- 2 baños 51.03 m2Pisos: 2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1ca7b3a24_xm.png"
+      },
+      {
+        "nombre": "Flat A10  Pisos: Entre 3 al 10  Solicitar cita  (8 unidades) Desde S/. 268,350  (Ref. $ 78,603)  2 dorm- 2 baños 51.07 m2Pisos: Entre 3 al 10",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1fc5e0c55_xm.png"
+      },
+      {
+        "nombre": "Flat A1  Pisos: Entre 2 al 11  Solicitar cita  (7 unidades) Desde S/. 214,650  (Ref. $ 62,873)  1 dorm- 1 baños 40.33 m2Pisos: Entre 2 al 11",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1de1add5d_xm.png"
+      },
+      {
+        "nombre": "Desde S/. 216,500",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1fa25c23d_xm.png"
+      },
+      {
+        "nombre": "Desde S/. 219,448",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1f72a7011_xm.png"
+      },
+      {
+        "nombre": "Desde S/. 227,544",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1c6eecf9e_xm.png"
+      },
+      {
+        "nombre": "Desde S/. 340,808",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma-san-miguel/planos-luma-san-miguel-68b86b5cef611_xm.png"
+      },
+      {
+        "nombre": "Desde S/. 369,552",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma-san-miguel/planos-luma-san-miguel-68b86b1931215_xm.png"
+      },
+      {
+        "nombre": "Desde S/. 299,470",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1f079eaaa_xm.png"
+      },
+      {
+        "nombre": "Desde S/. 322,512",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1bd17593c_xm.png"
+      },
+      {
+        "nombre": "Desde S/. 291,300",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1ee40a216_xm.png"
+      },
+      {
+        "nombre": "Desde S/. 303,108",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1eb8b458e_xm.png"
+      },
+      {
+        "nombre": "Desde S/. 215,150",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1e25c761d_xm.png"
+      },
+      {
+        "nombre": "Desde S/. 220,570",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1e03bf822_xm.png"
+      },
+      {
+        "nombre": "Desde S/. 267,800",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e20d35984a_xm.png"
+      },
+      {
+        "nombre": "Desde S/. 283,088",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1dace416f_xm.png"
+      },
+      {
+        "nombre": "Desde S/. 269,900",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e20b075dd8_xm.png"
+      },
+      {
+        "nombre": "Desde S/. 285,314",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1d8b06d39_xm.png"
+      },
+      {
+        "nombre": "Desde S/. 275,300",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e2091e843b_xm.png"
+      },
+      {
+        "nombre": "Desde S/. 262,120",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e2073c0f55_xm.png"
+      },
+      {
+        "nombre": "Desde S/. 288,070",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1cee1a561_xm.png"
+      },
+      {
+        "nombre": "Desde S/. 272,131",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e203f582c4_xm.png"
+      },
+      {
+        "nombre": "Desde S/. 282,293",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1ccf31e4c_xm.png"
+      },
+      {
+        "nombre": "Desde S/. 268,150",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e2004c4cbc_xm.png"
+      },
+      {
+        "nombre": "Desde S/. 283,459",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1ca7b3a24_xm.png"
+      },
+      {
+        "nombre": "Desde S/. 268,350",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1fc5e0c55_xm.png"
+      },
+      {
+        "nombre": "Desde S/. 214,650",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3796-luma/planos-luma-688e1de1add5d_xm.png"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "id_nexo": 3679,
+    "nombre": "Vista Tower",
+    "modelos": [
+      {
+        "nombre": "Flat J  Pisos: Entre 10 al 22  Solicitar cita  (9 unidades) Desde S/. 392,185  (Ref. $ 114,876)  2 dorm- 2 baños 57.5 m2Pisos: Entre 10 al 22",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3679-vista-tower/planos-vista-tower-6913ae4069f2f_xm.jpg"
+      },
+      {
+        "nombre": "Flat I  Pisos: Entre 10 al 22  Solicitar cita  (10 unidades) Desde S/. 360,821  (Ref. $ 105,689)  2 dorm- 2 baños 52.5 m2Pisos: Entre 10 al 22",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3679-vista-tower/planos-vista-tower-6913ae3184483_xm.jpg"
+      },
+      {
+        "nombre": "Flat H  Pisos: Entre 11 al 22  Solicitar cita  (8 unidades) Desde S/. 360,292  (Ref. $ 105,534)  2 dorm- 2 baños 49.5 m2Pisos: Entre 11 al 22",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3679-vista-tower/planos-vista-tower-698d0aa7363a9_xm.jpg"
+      },
+      {
+        "nombre": "Flat G  Pisos: Entre 2 al 7  Solicitar cita  (6 unidades) Desde S/. 313,763  (Ref. $ 91,905)  1 dorm- 1 baños 41 m2Pisos: Entre 2 al 7",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3679-vista-tower/planos-vista-tower-6913ae0d1ca34_xm.jpg"
+      },
+      {
+        "nombre": "Flat F  Pisos: Entre 2 al 7  Solicitar cita  (6 unidades) Desde S/. 228,252  (Ref. $ 66,858)  1 dorm- 1 baños 28 m2Pisos: Entre 2 al 7",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3679-vista-tower/planos-vista-tower-6913adfc58305_xm.jpg"
+      },
+      {
+        "nombre": "Flat E  Pisos: Entre 2 al 9  Solicitar cita  (8 unidades) Desde S/. 371,469  (Ref. $ 108,808)  2 dorm- 2 baños 51 m2Pisos: Entre 2 al 9",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3679-vista-tower/planos-vista-tower-6913adecafd15_xm.jpg"
+      },
+      {
+        "nombre": "Flat D  Pisos: Entre 2 al 22  Solicitar cita  (10 unidades) Desde S/. 289,241  (Ref. $ 84,722)  2 dorm- 2 baños 51 m2Pisos: Entre 2 al 22",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3679-vista-tower/planos-vista-tower-6913addad2702_xm.jpg"
+      },
+      {
+        "nombre": "Flat C  Pisos: Entre 2 al 19  Solicitar cita  (12 unidades) Desde S/. 280,867  (Ref. $ 82,269)  1 dorm- 1 baños 36 m2Pisos: Entre 2 al 19",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3679-vista-tower/planos-vista-tower-6913adc928ab6_xm.jpg"
+      },
+      {
+        "nombre": "Flat B  Pisos: Entre 7 al 22  Solicitar cita  (12 unidades) Desde S/. 476,104  (Ref. $ 139,456)  3 dorm- 2 baños 68.5 m2Pisos: Entre 7 al 22",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3679-vista-tower/planos-vista-tower-6913adb482d7a_xm.jpg"
+      },
+      {
+        "nombre": "Flat A  Pisos: 2, 3, 4  Solicitar cita  (3 unidades) Desde S/. 302,396  (Ref. $ 88,575)  1 dorm- 1 baños 38.5 m2Pisos: 2, 3, 4",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3679-vista-tower/planos-vista-tower-6913ad9d0a63e_xm.jpg"
+      },
+      {
+        "nombre": "Desde S/. 392,185",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3679-vista-tower/planos-vista-tower-6913ae4069f2f_xm.jpg"
+      },
+      {
+        "nombre": "Desde S/. 360,821",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3679-vista-tower/planos-vista-tower-6913ae3184483_xm.jpg"
+      },
+      {
+        "nombre": "Desde S/. 360,292",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3679-vista-tower/planos-vista-tower-698d0aa7363a9_xm.jpg"
+      },
+      {
+        "nombre": "Desde S/. 313,763",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3679-vista-tower/planos-vista-tower-6913ae0d1ca34_xm.jpg"
+      },
+      {
+        "nombre": "Desde S/. 228,252",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3679-vista-tower/planos-vista-tower-6913adfc58305_xm.jpg"
+      },
+      {
+        "nombre": "Desde S/. 371,469",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3679-vista-tower/planos-vista-tower-6913adecafd15_xm.jpg"
+      },
+      {
+        "nombre": "Desde S/. 289,241",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3679-vista-tower/planos-vista-tower-6913addad2702_xm.jpg"
+      },
+      {
+        "nombre": "Desde S/. 280,867",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3679-vista-tower/planos-vista-tower-6913adc928ab6_xm.jpg"
+      },
+      {
+        "nombre": "Desde S/. 476,104",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3679-vista-tower/planos-vista-tower-6913adb482d7a_xm.jpg"
+      },
+      {
+        "nombre": "Desde S/. 302,396",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3679-vista-tower/planos-vista-tower-6913ad9d0a63e_xm.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "id_nexo": 3202,
+    "nombre": "Supra Tower",
+    "modelos": [
+      {
+        "nombre": "Flat S",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-692786d6a0a70_xm.jpg"
+      },
+      {
+        "nombre": "Flat R",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-692786b5a7bcc_xm.jpg"
+      },
+      {
+        "nombre": "Flat P",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-6927869f3ebba_xm.jpg"
+      },
+      {
+        "nombre": "Flat M",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-6927865baaa17_xm.jpg"
+      },
+      {
+        "nombre": "Flat K",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-692786326b798_xm.jpg"
+      },
+      {
+        "nombre": "Flat J",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-6927861d1246b_xm.jpg"
+      },
+      {
+        "nombre": "Flat H",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-692785f90e78e_xm.jpg"
+      },
+      {
+        "nombre": "Flat G",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-692785e74e4d8_xm.jpg"
+      },
+      {
+        "nombre": "Flat F",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-692785d4e554b_xm.jpg"
+      },
+      {
+        "nombre": "Flat E2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-6927856fa970a_xm.jpg"
+      },
+      {
+        "nombre": "Flat E1",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-6927855dc6fc0_xm.jpg"
+      },
+      {
+        "nombre": "Flat D",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-692785be0d24d_xm.jpg"
+      },
+      {
+        "nombre": "Flat B",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-69a899980fc7b_xm.png"
+      },
+      {
+        "nombre": "Flat A",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-69278532d9a96_xm.jpg"
+      },
+      {
+        "nombre": "Flat S  Pisos: Entre 6 al 20  Solicitar cita  (9 unidades) Desde S/. 331,696  (Ref. $ 97,158)  2 dorm- 2 baños 53.5 m2Pisos: Entre 6 al 20",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-692786d6a0a70_xm.jpg"
+      },
+      {
+        "nombre": "Flat R  Pisos: 6 y 11  Solicitar cita  (2 unidades) Desde S/. 343,156  (Ref. $ 100,514)  2 dorm- 2 baños 52.5 m2Pisos: 6 y 11",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-692786b5a7bcc_xm.jpg"
+      },
+      {
+        "nombre": "Flat P  Pisos: Entre 6 al 20  Solicitar cita  (12 unidades) Desde S/. 333,892  (Ref. $ 97,801)  2 dorm- 2 baños 55 m2Pisos: Entre 6 al 20",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-6927869f3ebba_xm.jpg"
+      },
+      {
+        "nombre": "Flat M  Piso: 1  Solicitar cita  (1 unidad) Desde S/. 535,297  (Ref. $ 156,795)  2 dorm- 2 baños 101.5 m2Pisos: 1",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-6927865baaa17_xm.jpg"
+      },
+      {
+        "nombre": "Flat K  Piso: 1  Solicitar cita  (1 unidad) Desde S/. 485,627  (Ref. $ 142,246)  2 dorm- 2 baños 84.7 m2Pisos: 1",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-692786326b798_xm.jpg"
+      },
+      {
+        "nombre": "Flat J  Piso: 2  Solicitar cita  (1 unidad) Desde S/. 352,767  (Ref. $ 103,330)  1 dorm- 1 baños 52 m2Pisos: 2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-6927861d1246b_xm.jpg"
+      },
+      {
+        "nombre": "Flat H  Pisos: Entre 2 al 19  Solicitar cita  (7 unidades) Desde S/. 340,053  (Ref. $ 99,605)  2 dorm- 2 baños 55 m2Pisos: Entre 2 al 19",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-692785f90e78e_xm.jpg"
+      },
+      {
+        "nombre": "Flat G  Pisos: Entre 2 al 20  Solicitar cita  (15 unidades) Desde S/. 346,645  (Ref. $ 101,536)  2 dorm- 2 baños 58 m2Pisos: Entre 2 al 20",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-692785e74e4d8_xm.jpg"
+      },
+      {
+        "nombre": "Flat F  Pisos: Entre 2 al 20  Solicitar cita  (15 unidades) Desde S/. 342,461  (Ref. $ 100,311)  2 dorm- 2 baños 57.3 m2Pisos: Entre 2 al 20",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-692785d4e554b_xm.jpg"
+      },
+      {
+        "nombre": "Flat E2  Pisos: Entre 3 al 17  Solicitar cita  (11 unidades) Desde S/. 234,288  (Ref. $ 68,626)  1 dorm- 1 baños 34.3 m2Pisos: Entre 3 al 17",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-6927856fa970a_xm.jpg"
+      },
+      {
+        "nombre": "Flat E1  Pisos: 3, 4, 5  Solicitar cita  (3 unidades) Desde S/. 248,262  (Ref. $ 72,719)  1 dorm- 1 baños 33 m2Pisos: 3, 4, 5",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-6927855dc6fc0_xm.jpg"
+      },
+      {
+        "nombre": "Flat D  Pisos: Entre 2 al 20  Solicitar cita  (10 unidades) Desde S/. 393,503  (Ref. $ 115,262)  2 dorm- 2 baños 65.5 m2Pisos: Entre 2 al 20",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-692785be0d24d_xm.jpg"
+      },
+      {
+        "nombre": "Flat B  Pisos: 10 y 14  Solicitar cita  (2 unidades) Desde S/. 401,135  (Ref. $ 117,497)  2 dorm- 2 baños 62.3 m2Pisos: 10 y 14",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-69a899980fc7b_xm.png"
+      },
+      {
+        "nombre": "Flat A  Pisos: 2, 3, 14, 16  Solicitar cita  (4 unidades) Desde S/. 417,482  (Ref. $ 122,285)  2 dorm- 2 baños 66 m2Pisos: 2, 3, 14, 16",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/quatro-inmobiliaria/3202-supra-tower/planos-supra-tower-69278532d9a96_xm.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "id_nexo": 3683,
+    "nombre": "Albamar | Aura",
+    "modelos": [
+      {
+        "nombre": "Flat TIPO 6F",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/inmobiliaria-albamar-sac/3683-albamar-aura/planos-albamar-aura-686412f60ce5b_xm.png"
+      },
+      {
+        "nombre": "Flat TIPO 5E",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/inmobiliaria-albamar-sac/3683-albamar-aura/planos-albamar-aura-686412e226769_xm.png"
+      },
+      {
+        "nombre": "Flat TIPO 4D",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/inmobiliaria-albamar-sac/3683-albamar-aura/planos-albamar-aura-686412cda5e56_xm.png"
+      },
+      {
+        "nombre": "Flat TIPO 3C",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/inmobiliaria-albamar-sac/3683-albamar-aura/planos-albamar-aura-686412b05ca73_xm.png"
+      },
+      {
+        "nombre": "Flat TIPO 2B",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/inmobiliaria-albamar-sac/3683-albamar-aura/planos-albamar-aura-686412580aa36_xm.png"
+      },
+      {
+        "nombre": "Flat TIPO 1A",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/inmobiliaria-albamar-sac/3683-albamar-aura/planos-albamar-aura-686411c563802_xm.png"
+      },
+      {
+        "nombre": "Duplex TIPO 3K  Piso: 22  Solicitar cita  (1 unidad) Desde S/. 644,800  (Ref. $ 188,869)  3 dorm- 2 baños 94.37 m2Pisos: 22",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/inmobiliaria-albamar-sac/3683-albamar-aura/planos-albamar-aura-67b8b89e20df7_xm.png"
+      },
+      {
+        "nombre": "Duplex TIPO 2J  Piso: 22  Solicitar cita  (1 unidad) Desde S/. 736,300  (Ref. $ 215,671)  3 dorm- 2 baños 140.55 m2Pisos: 22",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/inmobiliaria-albamar-sac/3683-albamar-aura/planos-albamar-aura-6864127038e7e_xm.png"
+      },
+      {
+        "nombre": "Duplex TIPO 1I  Piso: 22  Solicitar cita  (1 unidad) Desde S/. 472,300  (Ref. $ 138,342)  2 dorm- 2 baños 68.6 m2Pisos: 22",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/inmobiliaria-albamar-sac/3683-albamar-aura/planos-albamar-aura-68641218783d5_xm.png"
+      },
+      {
+        "nombre": "Flat TIPO 6F  Piso: 2  Solicitar cita  (8 unidades) Desde S/. 391,400  (Ref. $ 114,646)  2 dorm- 2 baños 55.69 m2Pisos: 2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/inmobiliaria-albamar-sac/3683-albamar-aura/planos-albamar-aura-686412f60ce5b_xm.png"
+      },
+      {
+        "nombre": "Flat TIPO 5E  Pisos: Entre 2 al 13  Solicitar cita  (10 unidades) Desde S/. 238,900  (Ref. $ 69,977)  1 dorm- 1 baños 29.62 m2Pisos: Entre 2 al 13",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/inmobiliaria-albamar-sac/3683-albamar-aura/planos-albamar-aura-686412e226769_xm.png"
+      },
+      {
+        "nombre": "Flat TIPO 4D  Pisos: Entre 3 al 18  Solicitar cita  (13 unidades) Desde S/. 386,800  (Ref. $ 113,298)  2 dorm- 2 baños 56.7 m2Pisos: Entre 3 al 18",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/inmobiliaria-albamar-sac/3683-albamar-aura/planos-albamar-aura-686412cda5e56_xm.png"
+      },
+      {
+        "nombre": "Flat TIPO 3C  Pisos: 6, 7, 8, 9, 11  Solicitar cita  (5 unidades) Desde S/. 410,600  (Ref. $ 120,269)  2 dorm- 2 baños 54.66 m2Pisos: 6, 7, 8, 9, 11",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/inmobiliaria-albamar-sac/3683-albamar-aura/planos-albamar-aura-686412b05ca73_xm.png"
+      },
+      {
+        "nombre": "Flat TIPO 2B  Pisos: Entre 3 al 21  Solicitar cita  (14 unidades) Desde S/. 438,900  (Ref. $ 128,559)  3 dorm- 2 baños 70.33 m2Pisos: Entre 3 al 21",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/inmobiliaria-albamar-sac/3683-albamar-aura/planos-albamar-aura-686412580aa36_xm.png"
+      },
+      {
+        "nombre": "Flat TIPO 1A  Pisos: 4 y 11  Solicitar cita  (2 unidades) Desde S/. 281,100  (Ref. $ 82,337)  1 dorm- 1 baños 35.56 m2Pisos: 4 y 11",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/inmobiliaria-albamar-sac/3683-albamar-aura/planos-albamar-aura-686411c563802_xm.png"
+      },
+      {
+        "nombre": "Duplex TIPO 3K  Piso: 22  Solicitar cita  (1 unidad) Desde S/. 644,800  (Ref. $ 188,869)  3 dorm- 2 baños 94.37 m2Pisos: 22",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/inmobiliaria-albamar-sac/3683-albamar-aura/planos-albamar-aura-67b8b89e20df7_xm.png"
+      },
+      {
+        "nombre": "Duplex TIPO 2J  Piso: 22  Solicitar cita  (1 unidad) Desde S/. 736,300  (Ref. $ 215,671)  3 dorm- 2 baños 140.55 m2Pisos: 22",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/inmobiliaria-albamar-sac/3683-albamar-aura/planos-albamar-aura-6864127038e7e_xm.png"
+      },
+      {
+        "nombre": "Duplex TIPO 1I  Piso: 22  Solicitar cita  (1 unidad) Desde S/. 472,300  (Ref. $ 138,342)  2 dorm- 2 baños 68.6 m2Pisos: 22",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/inmobiliaria-albamar-sac/3683-albamar-aura/planos-albamar-aura-68641218783d5_xm.png"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "id_nexo": 3251,
+    "nombre": "Proyecto Libertad",
+    "modelos": [
+      {
+        "nombre": "Flat E",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/comunidad-grupo-inmobiliario/3251-proyecto-libertad/planos-proyecto-libertad-664b86c490d77_xm.jpg"
+      },
+      {
+        "nombre": "Flat C",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/comunidad-grupo-inmobiliario/3251-proyecto-libertad/planos-proyecto-libertad-664b86864fce8_xm.jpg"
+      },
+      {
+        "nombre": "Flat B",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/comunidad-grupo-inmobiliario/3251-proyecto-libertad/planos-proyecto-libertad-664b866ea57f7_xm.jpg"
+      },
+      {
+        "nombre": "Flat A",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/comunidad-grupo-inmobiliario/3251-proyecto-libertad/planos-proyecto-libertad-664b864c5495b_xm.jpg"
+      },
+      {
+        "nombre": "Duplex F  Pisos: 11, 13, 15, 17  Solicitar cita  (4 unidades) Desde S/. 337,000  (Ref. $ 98,711)  1 dorm- 1 baños 42 m2Pisos: 11, 13, 15, 17",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/comunidad-grupo-inmobiliario/3251-proyecto-libertad/planos-proyecto-libertad-664b86f090eb7_xm.jpg"
+      },
+      {
+        "nombre": "Flat E  Pisos: Entre 4 al 20  Solicitar cita  (15 unidades) Desde S/. 329,000  (Ref. $ 96,368)  2 dorm- 2 baños 48 m2Pisos: Entre 4 al 20",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/comunidad-grupo-inmobiliario/3251-proyecto-libertad/planos-proyecto-libertad-664b86c490d77_xm.jpg"
+      },
+      {
+        "nombre": "Flat C  Pisos: Entre 8 al 20  Solicitar cita  (8 unidades) Desde S/. 330,000  (Ref. $ 96,661)  2 dorm- 2 baños 47 m2Pisos: Entre 8 al 20",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/comunidad-grupo-inmobiliario/3251-proyecto-libertad/planos-proyecto-libertad-664b86864fce8_xm.jpg"
+      },
+      {
+        "nombre": "Flat B  Pisos: 7, 9, 11, 12, 13  Solicitar cita  (5 unidades) Desde S/. 388,000  (Ref. $ 113,650)  3 dorm- 2 baños 60 m2Pisos: 7, 9, 11, 12, 13",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/comunidad-grupo-inmobiliario/3251-proyecto-libertad/planos-proyecto-libertad-664b866ea57f7_xm.jpg"
+      },
+      {
+        "nombre": "Flat A  Pisos: Entre 5 al 20  Solicitar cita  (9 unidades) Desde S/. 240,000  (Ref. $ 70,299)  1 dorm- 1 baños 30 m2Pisos: Entre 5 al 20",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/comunidad-grupo-inmobiliario/3251-proyecto-libertad/planos-proyecto-libertad-664b864c5495b_xm.jpg"
+      },
+      {
+        "nombre": "Duplex F  Pisos: 11, 13, 15, 17  Solicitar cita  (4 unidades) Desde S/. 337,000  (Ref. $ 98,711)  1 dorm- 1 baños 42 m2Pisos: 11, 13, 15, 17",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/comunidad-grupo-inmobiliario/3251-proyecto-libertad/planos-proyecto-libertad-664b86f090eb7_xm.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "id_nexo": 3421,
+    "nombre": "Quiñones Park",
+    "modelos": [
+      {
+        "nombre": "Flat Tipo 6",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/multiurbe/3421-quinones-park/planos-quinones-park-681261616016d_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo 3",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/multiurbe/3421-quinones-park/planos-quinones-park-6824b98c9bbac_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo 2A",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/multiurbe/3421-quinones-park/planos-quinones-park-6824b9ece7646_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo 6  Piso: 2  Solicitar cita  (1 unidad) Desde S/. 435,000  (Ref. $ 127,417)  2 dorm- 2 baños 58.02 m2Pisos: 2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/multiurbe/3421-quinones-park/planos-quinones-park-681261616016d_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo 3  Piso: 8  Solicitar cita  (1 unidad) Desde S/. 245,000  (Ref. $ 71,763)  1 dorm- 1 baños 29.98 m2Pisos: 8",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/multiurbe/3421-quinones-park/planos-quinones-park-6824b98c9bbac_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo 2A  Piso: 6  Solicitar cita  (1 unidad) Desde S/. 450,000  (Ref. $ 131,810)  2 dorm- 2 baños 60.8 m2Pisos: 6",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/multiurbe/3421-quinones-park/planos-quinones-park-6824b9ece7646_xm.png"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "id_nexo": 4053,
+    "nombre": "DANAUS - SURQUILLO",
+    "modelos": [
+      {
+        "nombre": "Flat 9d",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a6270ad968_xm.png"
+      },
+      {
+        "nombre": "Flat 9c",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a623a0c492_xm.png"
+      },
+      {
+        "nombre": "Flat 9a",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a61f259514_xm.png"
+      },
+      {
+        "nombre": "Flat 9",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a662d9cb95_xm.png"
+      },
+      {
+        "nombre": "Flat 8b",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a61bb5ff02_xm.png"
+      },
+      {
+        "nombre": "Flat 8a",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a6198236f8_xm.png"
+      },
+      {
+        "nombre": "Flat 8",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a65e913213_xm.png"
+      },
+      {
+        "nombre": "Flat 7b",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a615b698d6_xm.png"
+      },
+      {
+        "nombre": "Flat 7a",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a6133d6d80_xm.png"
+      },
+      {
+        "nombre": "Flat 7",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a65b4724ef_xm.png"
+      },
+      {
+        "nombre": "Flat 6a",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus-surquillo/planos-danaus-surquillo-6995ea6e6e4ba_xm.png"
+      },
+      {
+        "nombre": "Flat 6",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-6924b2b6bef84_xm.png"
+      },
+      {
+        "nombre": "Flat 5",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a64c0b3944_xm.png"
+      },
+      {
+        "nombre": "Flat 4",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a6488751bb_xm.png"
+      },
+      {
+        "nombre": "Flat 3a",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a6038abf3a_xm.png"
+      },
+      {
+        "nombre": "Flat 3",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a64486e7e8_xm.png"
+      },
+      {
+        "nombre": "Flat 2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a6400ae017_xm.png"
+      },
+      {
+        "nombre": "Flat 1b",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a5fb59a24e_xm.png"
+      },
+      {
+        "nombre": "Flat 1a",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus-surquillo/planos-danaus-surquillo-697b979b0b6c8_xm.png"
+      },
+      {
+        "nombre": "Flat 11",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a66a2464b3_xm.png"
+      },
+      {
+        "nombre": "Flat 10g",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a638e0ea12_xm.png"
+      },
+      {
+        "nombre": "Flat 10f",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a636ccf398_xm.png"
+      },
+      {
+        "nombre": "Flat 10e",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a6341486a6_xm.png"
+      },
+      {
+        "nombre": "Flat 10d",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a631f8d5cd_xm.png"
+      },
+      {
+        "nombre": "Flat 10c",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a63017004c_xm.png"
+      },
+      {
+        "nombre": "Flat 10b",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus-surquillo/planos-danaus-surquillo-6995e9f58963a_xm.png"
+      },
+      {
+        "nombre": "Flat 10a",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a629824592_xm.png"
+      },
+      {
+        "nombre": "Flat 10",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a6670e51c3_xm.png"
+      },
+      {
+        "nombre": "Flat 1",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a63c09cb27_xm.png"
+      },
+      {
+        "nombre": "Duplex 5a  Piso: 36  Solicitar cita  (1 unidad) Desde S/. 421,000  (Ref. $ 123,316)  2 dorm- 2 baños 69.05 m2Pisos: 36",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a60e28f7d3_xm.png"
+      },
+      {
+        "nombre": "Duplex 4a  Piso: 36  Solicitar cita  (1 unidad) Desde S/. 323,000  (Ref. $ 94,610)  1 dorm- 1 baños 52.45 m2Pisos: 36",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a60b0a310c_xm.png"
+      },
+      {
+        "nombre": "Duplex 3b  Piso: 36  Solicitar cita  (1 unidad) Desde S/. 440,000  (Ref. $ 128,881)  2 dorm- 2 baños 72.1 m2Pisos: 36",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a607714f82_xm.png"
+      },
+      {
+        "nombre": "Duplex 2a  Piso: 36  Solicitar cita  (1 unidad) Desde S/. 327,000  (Ref. $ 95,782)  1 dorm- 1 baños 53.85 m2Pisos: 36",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a600d03917_xm.png"
+      },
+      {
+        "nombre": "Duplex 1c  Piso: 36  Solicitar cita  (1 unidad) Desde S/. 303,000  (Ref. $ 88,752)  1 dorm- 1 baños 49.8 m2Pisos: 36",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a5fe027110_xm.png"
+      },
+      {
+        "nombre": "Flat 9d  Piso: 36  Solicitar cita  (1 unidad) Desde S/. 273,000  (Ref. $ 79,965)  1 dorm- 1 baños 43.9 m2Pisos: 36",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a6270ad968_xm.png"
+      },
+      {
+        "nombre": "Flat 9c  Pisos: Entre 14 al 35  Solicitar cita  (22 unidades) Desde S/. 294,000  (Ref. $ 86,116)  2 dorm- 2 baños 48.3 m2Pisos: Entre 14 al 35",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a623a0c492_xm.png"
+      },
+      {
+        "nombre": "Flat 9a  Piso: 2  Solicitar cita  (1 unidad) Desde S/. 316,000  (Ref. $ 92,560)  1 dorm- 1 baños 40.35 m2Pisos: 2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a61f259514_xm.png"
+      },
+      {
+        "nombre": "Flat 9  Pisos: Entre 2 al 12  Solicitar cita  (10 unidades) Desde S/. 367,000  (Ref. $ 107,499)  2 dorm- 2 baños 52 m2Pisos: Entre 2 al 12",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a662d9cb95_xm.png"
+      },
+      {
+        "nombre": "Flat 8b  Piso: 36  Solicitar cita  (1 unidad) Desde S/. 325,000  (Ref. $ 95,196)  2 dorm- 2 baños 52.85 m2Pisos: 36",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a61bb5ff02_xm.png"
+      },
+      {
+        "nombre": "Flat 8a  Piso: 2  Solicitar cita  (1 unidad) Desde S/. 407,000  (Ref. $ 119,215)  2 dorm- 2 baños 52.5 m2Pisos: 2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a6198236f8_xm.png"
+      },
+      {
+        "nombre": "Flat 8  Pisos: Entre 3 al 35  Solicitar cita  (33 unidades) Desde S/. 271,000  (Ref. $ 79,379)  1 dorm- 1 baños 43.7 m2Pisos: Entre 3 al 35",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a65e913213_xm.png"
+      },
+      {
+        "nombre": "Flat 7b  Piso: 36  Solicitar cita  (1 unidad) Desde S/. 252,000  (Ref. $ 73,814)  1 dorm- 1 baños 40.5 m2Pisos: 36",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a615b698d6_xm.png"
+      },
+      {
+        "nombre": "Flat 7a  Piso: 2  Solicitar cita  (1 unidad) Desde S/. 455,000  (Ref. $ 133,275)  3 dorm- 3 baños 57.36 m2Pisos: 2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a6133d6d80_xm.png"
+      },
+      {
+        "nombre": "Flat 7  Pisos: Entre 3 al 35  Solicitar cita  (33 unidades) Desde S/. 273,000  (Ref. $ 79,965)  1 dorm- 1 baños 43.9 m2Pisos: Entre 3 al 35",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a65b4724ef_xm.png"
+      },
+      {
+        "nombre": "Flat 6a  Piso: 36  Solicitar cita  (1 unidad) Desde S/. 256,000  (Ref. $ 74,985)  1 dorm- 1 baños 41.05 m2Pisos: 36",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus-surquillo/planos-danaus-surquillo-6995ea6e6e4ba_xm.png"
+      },
+      {
+        "nombre": "Flat 6  Pisos: Entre 2 al 33  Solicitar cita  (28 unidades) Desde S/. 331,000  (Ref. $ 96,954)  2 dorm- 2 baños 52.85 m2Pisos: Entre 2 al 33",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-6924b2b6bef84_xm.png"
+      },
+      {
+        "nombre": "Flat 5  Pisos: Entre 2 al 34  Solicitar cita  (32 unidades) Desde S/. 252,000  (Ref. $ 73,814)  1 dorm- 1 baños 40.5 m2Pisos: Entre 2 al 34",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a64c0b3944_xm.png"
+      },
+      {
+        "nombre": "Flat 4  Pisos: Entre 2 al 34  Solicitar cita  (31 unidades) Desde S/. 256,000  (Ref. $ 74,985)  1 dorm- 1 baños 41.05 m2Pisos: Entre 2 al 34",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a6488751bb_xm.png"
+      },
+      {
+        "nombre": "Flat 3a  Piso: 35  Solicitar cita  (1 unidad) Desde S/. 326,000  (Ref. $ 95,489)  2 dorm- 2 baños 53 m2Pisos: 35",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a6038abf3a_xm.png"
+      },
+      {
+        "nombre": "Flat 3  Pisos: Entre 2 al 33  Solicitar cita  (32 unidades) Desde S/. 331,000  (Ref. $ 96,954)  2 dorm- 2 baños 53 m2Pisos: Entre 2 al 33",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a64486e7e8_xm.png"
+      },
+      {
+        "nombre": "Flat 2  Pisos: Entre 2 al 34  Solicitar cita  (33 unidades) Desde S/. 270,000  (Ref. $ 79,086)  1 dorm- 1 baños 43.55 m2Pisos: Entre 2 al 34",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a6400ae017_xm.png"
+      },
+      {
+        "nombre": "Flat 1b  Pisos: Entre 14 al 35  Solicitar cita  (22 unidades) Desde S/. 292,000  (Ref. $ 85,530)  2 dorm- 2 baños 48 m2Pisos: Entre 14 al 35",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a5fb59a24e_xm.png"
+      },
+      {
+        "nombre": "Flat 1a  Piso: 2  Solicitar cita  (1 unidad) Desde S/. 391,000  (Ref. $ 114,528)  2 dorm- 2 baños 50.35 m2Pisos: 2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus-surquillo/planos-danaus-surquillo-697b979b0b6c8_xm.png"
+      },
+      {
+        "nombre": "Flat 11  Pisos: Entre 3 al 36  Solicitar cita  (10 unidades) Desde S/. 285,000  (Ref. $ 83,480)  1 dorm- 1 baños 40 m2Pisos: Entre 3 al 36",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a66a2464b3_xm.png"
+      },
+      {
+        "nombre": "Flat 10g  Piso: 36  Solicitar cita  (1 unidad) Desde S/. 271,000  (Ref. $ 79,379)  1 dorm- 1 baños 43.7 m2Pisos: 36",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a638e0ea12_xm.png"
+      },
+      {
+        "nombre": "Flat 10f  Pisos: 18, 19, 20  Solicitar cita  (3 unidades) Desde S/. 272,000  (Ref. $ 79,672)  1 dorm- 1 baños 40.45 m2Pisos: 18, 19, 20",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a636ccf398_xm.png"
+      },
+      {
+        "nombre": "Flat 10e  Piso: 17  Solicitar cita  (1 unidad) Desde S/. 371,000  (Ref. $ 108,670)  1 dorm- 1 baños 54.1 m2Pisos: 17",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a6341486a6_xm.png"
+      },
+      {
+        "nombre": "Flat 10d  Pisos: 15 y 16  Solicitar cita  (2 unidades) Desde S/. 371,000  (Ref. $ 108,670)  2 dorm- 2 baños 54.1 m2Pisos: 15 y 16",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a631f8d5cd_xm.png"
+      },
+      {
+        "nombre": "Flat 10c  Piso: 14  Solicitar cita  (1 unidad) Desde S/. 441,000  (Ref. $ 129,174)  2 dorm- 2 baños 63.85 m2Pisos: 14",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a63017004c_xm.png"
+      },
+      {
+        "nombre": "Flat 10b  Pisos: 12 y 13  Solicitar cita  (2 unidades) Desde S/. 448,000  (Ref. $ 131,224)  3 dorm- 3 baños 63.85 m2Pisos: 12 y 13",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus-surquillo/planos-danaus-surquillo-6995e9f58963a_xm.png"
+      },
+      {
+        "nombre": "Flat 10a  Piso: 2  Solicitar cita  (1 unidad) Desde S/. 366,000  (Ref. $ 107,206)  1 dorm- 1 baños 47 m2Pisos: 2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a629824592_xm.png"
+      },
+      {
+        "nombre": "Flat 10  Pisos: Entre 3 al 11  Solicitar cita  (9 unidades) Desde S/. 288,000  (Ref. $ 84,359)  1 dorm- 1 baños 40.35 m2Pisos: Entre 3 al 11",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a6670e51c3_xm.png"
+      },
+      {
+        "nombre": "Flat 1  Pisos: Entre 3 al 13  Solicitar cita  (11 unidades) Desde S/. 365,000  (Ref. $ 106,913)  2 dorm- 2 baños 51.7 m2Pisos: Entre 3 al 13",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a63c09cb27_xm.png"
+      },
+      {
+        "nombre": "Duplex 5a  Piso: 36  Solicitar cita  (1 unidad) Desde S/. 421,000  (Ref. $ 123,316)  2 dorm- 2 baños 69.05 m2Pisos: 36",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a60e28f7d3_xm.png"
+      },
+      {
+        "nombre": "Duplex 4a  Piso: 36  Solicitar cita  (1 unidad) Desde S/. 323,000  (Ref. $ 94,610)  1 dorm- 1 baños 52.45 m2Pisos: 36",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a60b0a310c_xm.png"
+      },
+      {
+        "nombre": "Duplex 3b  Piso: 36  Solicitar cita  (1 unidad) Desde S/. 440,000  (Ref. $ 128,881)  2 dorm- 2 baños 72.1 m2Pisos: 36",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a607714f82_xm.png"
+      },
+      {
+        "nombre": "Duplex 2a  Piso: 36  Solicitar cita  (1 unidad) Desde S/. 327,000  (Ref. $ 95,782)  1 dorm- 1 baños 53.85 m2Pisos: 36",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a600d03917_xm.png"
+      },
+      {
+        "nombre": "Duplex 1c  Piso: 36  Solicitar cita  (1 unidad) Desde S/. 303,000  (Ref. $ 88,752)  1 dorm- 1 baños 49.8 m2Pisos: 36",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/4053-danaus/planos-danaus-696a5fe027110_xm.png"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "id_nexo": 3342,
+    "nombre": "ALBORADA III - SAN MIGUEL",
+    "modelos": [
+      {
+        "nombre": "Flat B4",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed9b6e490f_xm.png"
+      },
+      {
+        "nombre": "Flat B3",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed8b47c1ca_xm.png"
+      },
+      {
+        "nombre": "Flat B2a",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed6cec76fc_xm.png"
+      },
+      {
+        "nombre": "Flat B2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed7c7a1c11_xm.png"
+      },
+      {
+        "nombre": "Flat B1",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed64e827c8_xm.png"
+      },
+      {
+        "nombre": "Flat A8",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed2504a45f_xm.png"
+      },
+      {
+        "nombre": "Flat A7a",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed11bb3f14_xm.png"
+      },
+      {
+        "nombre": "Flat A7",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed185788ff_xm.png"
+      },
+      {
+        "nombre": "Flat A6b",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ecedc14b2e_xm.png"
+      },
+      {
+        "nombre": "Flat A6a",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ece8c5652b_xm.png"
+      },
+      {
+        "nombre": "Flat A6",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ecf351b347_xm.png"
+      },
+      {
+        "nombre": "Flat A5",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686eccb52ecae_xm.png"
+      },
+      {
+        "nombre": "Flat A4d",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ecb2f4870c_xm.png"
+      },
+      {
+        "nombre": "Flat A4b",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ecad0a34ba_xm.png"
+      },
+      {
+        "nombre": "Flat A4a",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ec9ca5d59d_xm.png"
+      },
+      {
+        "nombre": "Flat A4",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686eca08bd958_xm.png"
+      },
+      {
+        "nombre": "Flat A3a",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-687135047f448_xm.png"
+      },
+      {
+        "nombre": "Flat A3",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-687135ff3f4da_xm.png"
+      },
+      {
+        "nombre": "Flat A2b",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-687003ef17c4e_xm.png"
+      },
+      {
+        "nombre": "Flat A2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-6871344294962_xm.png"
+      },
+      {
+        "nombre": "Flat A12",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-6999d43095758_xm.png"
+      },
+      {
+        "nombre": "Flat A1",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-687002d4b7ff2_xm.png"
+      },
+      {
+        "nombre": "Duplex B6  Piso: 18  Solicitar cita  (1 unidad) Desde S/. 317,660  (Ref. $ 93,046)  1 dorm- 2 baños 66.7 m2Pisos: 18",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686edacfad50d_xm.png"
+      },
+      {
+        "nombre": "Duplex A9  Piso: 18  Solicitar cita  (1 unidad) Desde S/. 321,540  (Ref. $ 94,183)  2 dorm- 2 baños 66.3 m2Pisos: 18",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed2cc47036_xm.png"
+      },
+      {
+        "nombre": "Duplex A8a  Piso: 18  Solicitar cita  (1 unidad) Desde S/. 324,800  (Ref. $ 95,138)  1 dorm- 2 baños 67.5 m2Pisos: 18",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed29375bf7_xm.png"
+      },
+      {
+        "nombre": "Duplex A7b  Piso: 18  Solicitar cita  (1 unidad) Desde S/. 339,540  (Ref. $ 99,455)  1 dorm- 2 baños 71.3 m2Pisos: 18",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed1beb26a0_xm.png"
+      },
+      {
+        "nombre": "Duplex A6f  Piso: 18  Solicitar cita  (1 unidad) Desde S/. 351,360  (Ref. $ 102,917)  2 dorm- 2 baños 73.7 m2Pisos: 18",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed0d885adb_xm.png"
+      },
+      {
+        "nombre": "Duplex A4e  Piso: 18  Solicitar cita  (1 unidad) Desde S/. 340,720  (Ref. $ 99,801)  2 dorm- 2 baños 71.4 m2Pisos: 18",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ecbdc8c66f_xm.png"
+      },
+      {
+        "nombre": "Duplex A1b  Piso: 18  Solicitar cita  (1 unidad) Desde S/. 371,000  (Ref. $ 108,670)  1 dorm- 2 baños 79.2 m2Pisos: 18",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-687003112eb26_xm.png"
+      },
+      {
+        "nombre": "Duplex A11  Piso: 18  Solicitar cita  (1 unidad) Desde S/. 508,460  (Ref. $ 148,934)  2 dorm- 2 baños 108.2 m2Pisos: 18",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed33f3851c_xm.png"
+      },
+      {
+        "nombre": "Duplex A10  Piso: 18  Solicitar cita  (1 unidad) Desde S/. 321,300  (Ref. $ 94,112)  2 dorm- 2 baños 67.5 m2Pisos: 18",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed30a46548_xm.png"
+      },
+      {
+        "nombre": "Flat B4  Piso: 4  Solicitar cita  (1 unidad) Desde S/. 334,500  (Ref. $ 97,979)  3 dorm- 2 baños 64.3 m2Pisos: 4",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed9b6e490f_xm.png"
+      },
+      {
+        "nombre": "Flat B3  Piso: 4  Solicitar cita  (1 unidad) Desde S/. 288,000  (Ref. $ 84,359)  2 dorm- 2 baños 55 m2Pisos: 4",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed8b47c1ca_xm.png"
+      },
+      {
+        "nombre": "Flat B2a  Piso: 1  Solicitar cita  (1 unidad) Desde S/. 343,480  (Ref. $ 100,609)  3 dorm- 2 baños 64.8 m2Pisos: 1",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed6cec76fc_xm.png"
+      },
+      {
+        "nombre": "Flat B2  Piso: 8  Solicitar cita  (1 unidad) Desde S/. 314,300  (Ref. $ 92,062)  3 dorm- 2 baños 65.5 m2Pisos: 8",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed7c7a1c11_xm.png"
+      },
+      {
+        "nombre": "Flat B1  Piso: 2  Solicitar cita  (1 unidad) Desde S/. 347,050  (Ref. $ 101,655)  3 dorm- 2 baños 65 m2Pisos: 2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed64e827c8_xm.png"
+      },
+      {
+        "nombre": "Flat A8  Pisos: Entre 2 al 9  Solicitar cita  (7 unidades) Desde S/. 341,640  (Ref. $ 100,070)  3 dorm- 2 baños 63.2 m2Pisos: Entre 2 al 9",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed2504a45f_xm.png"
+      },
+      {
+        "nombre": "Flat A7a  Piso: 1  Solicitar cita  (1 unidad) Desde S/. 292,760  (Ref. $ 85,753)  2 dorm- 2 baños 53.8 m2Pisos: 1",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed11bb3f14_xm.png"
+      },
+      {
+        "nombre": "Flat A7  Pisos: Entre 3 al 9  Solicitar cita  (6 unidades) Desde S/. 351,000  (Ref. $ 102,812)  3 dorm- 2 baños 65 m2Pisos: Entre 3 al 9",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed185788ff_xm.png"
+      },
+      {
+        "nombre": "Flat A6b  Piso: 2  Solicitar cita  (1 unidad) Desde S/. 382,200  (Ref. $ 111,951)  3 dorm- 2 baños 71 m2Pisos: 2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ecedc14b2e_xm.png"
+      },
+      {
+        "nombre": "Flat A6a  Piso: 1  Solicitar cita  (1 unidad) Desde S/. 343,200  (Ref. $ 100,527)  3 dorm- 2 baños 63.5 m2Pisos: 1",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ece8c5652b_xm.png"
+      },
+      {
+        "nombre": "Flat A6  Pisos: Entre 5 al 12  Solicitar cita  (6 unidades) Desde S/. 336,400  (Ref. $ 98,535)  3 dorm- 2 baños 66 m2Pisos: Entre 5 al 12",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ecf351b347_xm.png"
+      },
+      {
+        "nombre": "Flat A5  Pisos: 2, 4, 5, 6, 8  Solicitar cita  (5 unidades) Desde S/. 309,400  (Ref. $ 90,627)  2 dorm- 2 baños 57 m2Pisos: 2, 4, 5, 6, 8",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686eccb52ecae_xm.png"
+      },
+      {
+        "nombre": "Flat A4d  Piso: 17  Solicitar cita  (1 unidad) Desde S/. 252,000  (Ref. $ 73,814)  1 dorm- 2 baños 48.35 m2Pisos: 17",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ecb2f4870c_xm.png"
+      },
+      {
+        "nombre": "Flat A4b  Piso: 7  Solicitar cita  (1 unidad) Desde S/. 311,480  (Ref. $ 91,236)  2 dorm- 2 baños 57.4 m2Pisos: 7",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ecad0a34ba_xm.png"
+      },
+      {
+        "nombre": "Flat A4a  Piso: 1  Solicitar cita  (1 unidad) Desde S/. 351,100  (Ref. $ 102,841)  2 dorm- 2 baños 67 m2Pisos: 1",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ec9ca5d59d_xm.png"
+      },
+      {
+        "nombre": "Flat A4  Pisos: 2, 3, 4, 5, 6  Solicitar cita  (5 unidades) Desde S/. 317,220  (Ref. $ 92,917)  2 dorm- 2 baños 57.4 m2Pisos: 2, 3, 4, 5, 6",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686eca08bd958_xm.png"
+      },
+      {
+        "nombre": "Flat A3a  Piso: 1  Solicitar cita  (1 unidad) Desde S/. 353,220  (Ref. $ 103,462)  2 dorm- 2 baños 67.4 m2Pisos: 1",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-687135047f448_xm.png"
+      },
+      {
+        "nombre": "Flat A3  Pisos: Entre 2 al 11  Solicitar cita  (10 unidades) Desde S/. 332,480  (Ref. $ 97,387)  3 dorm- 2 baños 65.2 m2Pisos: Entre 2 al 11",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-687135ff3f4da_xm.png"
+      },
+      {
+        "nombre": "Flat A2b  Piso: 2  Solicitar cita  (1 unidad) Desde S/. 337,540  (Ref. $ 98,869)  2 dorm- 2 baños 60.1 m2Pisos: 2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-687003ef17c4e_xm.png"
+      },
+      {
+        "nombre": "Flat A2  Pisos: Entre 3 al 16  Solicitar cita  (12 unidades) Desde S/. 359,800  (Ref. $ 105,390)  3 dorm- 2 baños 64.3 m2Pisos: Entre 3 al 16",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-6871344294962_xm.png"
+      },
+      {
+        "nombre": "Flat A12  Piso: 18  Solicitar cita  (1 unidad) Desde S/. 316,360  (Ref. $ 92,666)  3 dorm- 2 baños 62.9 m2Pisos: 18",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-6999d43095758_xm.png"
+      },
+      {
+        "nombre": "Flat A1  Pisos: Entre 2 al 17  Solicitar cita  (14 unidades) Desde S/. 367,570  (Ref. $ 107,666)  2 dorm- 2 baños 66.9 m2Pisos: Entre 2 al 17",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-687002d4b7ff2_xm.png"
+      },
+      {
+        "nombre": "Duplex B6  Piso: 18  Solicitar cita  (1 unidad) Desde S/. 317,660  (Ref. $ 93,046)  1 dorm- 2 baños 66.7 m2Pisos: 18",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686edacfad50d_xm.png"
+      },
+      {
+        "nombre": "Duplex A9  Piso: 18  Solicitar cita  (1 unidad) Desde S/. 321,540  (Ref. $ 94,183)  2 dorm- 2 baños 66.3 m2Pisos: 18",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed2cc47036_xm.png"
+      },
+      {
+        "nombre": "Duplex A8a  Piso: 18  Solicitar cita  (1 unidad) Desde S/. 324,800  (Ref. $ 95,138)  1 dorm- 2 baños 67.5 m2Pisos: 18",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed29375bf7_xm.png"
+      },
+      {
+        "nombre": "Duplex A7b  Piso: 18  Solicitar cita  (1 unidad) Desde S/. 339,540  (Ref. $ 99,455)  1 dorm- 2 baños 71.3 m2Pisos: 18",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed1beb26a0_xm.png"
+      },
+      {
+        "nombre": "Duplex A6f  Piso: 18  Solicitar cita  (1 unidad) Desde S/. 351,360  (Ref. $ 102,917)  2 dorm- 2 baños 73.7 m2Pisos: 18",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed0d885adb_xm.png"
+      },
+      {
+        "nombre": "Duplex A4e  Piso: 18  Solicitar cita  (1 unidad) Desde S/. 340,720  (Ref. $ 99,801)  2 dorm- 2 baños 71.4 m2Pisos: 18",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ecbdc8c66f_xm.png"
+      },
+      {
+        "nombre": "Duplex A1b  Piso: 18  Solicitar cita  (1 unidad) Desde S/. 371,000  (Ref. $ 108,670)  1 dorm- 2 baños 79.2 m2Pisos: 18",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-687003112eb26_xm.png"
+      },
+      {
+        "nombre": "Duplex A11  Piso: 18  Solicitar cita  (1 unidad) Desde S/. 508,460  (Ref. $ 148,934)  2 dorm- 2 baños 108.2 m2Pisos: 18",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed33f3851c_xm.png"
+      },
+      {
+        "nombre": "Duplex A10  Piso: 18  Solicitar cita  (1 unidad) Desde S/. 321,300  (Ref. $ 94,112)  2 dorm- 2 baños 67.5 m2Pisos: 18",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3342-alborada-iii-san-miguel/planos-alborada-iii-san-miguel-686ed30a46548_xm.png"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "id_nexo": 3886,
+    "nombre": "Villa Elenia",
+    "modelos": [
+      {
+        "nombre": "Flat X6",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-caral/3886-villa-elenia/planos-villa-elenia-691e493e0f46f_xm.jpg"
+      },
+      {
+        "nombre": "Flat X4",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-caral/3886-villa-elenia/planos-villa-elenia-691e3a8c6ce0a_xm.png"
+      },
+      {
+        "nombre": "Flat X3",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-caral/3886-villa-elenia/planos-villa-elenia-691e4142ab507_xm.png"
+      },
+      {
+        "nombre": "Flat X10",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-caral/3886-villa-elenia/planos-villa-elenia-691e33c214714_xm.png"
+      },
+      {
+        "nombre": "Flat X09",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-caral/3886-villa-elenia/planos-villa-elenia-691e33a26b0bd_xm.png"
+      },
+      {
+        "nombre": "Flat X06",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-caral/3886-villa-elenia/planos-villa-elenia-691e344465b77_xm.png"
+      },
+      {
+        "nombre": "Flat X05",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-caral/3886-villa-elenia/planos-villa-elenia-691e32fd51d67_xm.png"
+      },
+      {
+        "nombre": "Flat X03",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-caral/3886-villa-elenia/planos-villa-elenia-691e308853c86_xm.png"
+      },
+      {
+        "nombre": "Flat X02",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-caral/3886-villa-elenia/planos-villa-elenia-691e33e1f1512_xm.png"
+      },
+      {
+        "nombre": "Flat X01",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-caral/3886-villa-elenia/planos-villa-elenia-691e2f6c4a319_xm.png"
+      },
+      {
+        "nombre": "Flat X6  Pisos: Entre 2 al 14  Solicitar cita  (7 unidades) Desde S/. 494,673  (Ref. $ 144,895)  3 dorm- 2 baños 74.83 m2Pisos: Entre 2 al 14",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-caral/3886-villa-elenia/planos-villa-elenia-691e493e0f46f_xm.jpg"
+      },
+      {
+        "nombre": "Flat X4  Pisos: 18, 19, 20, 21  Solicitar cita  (4 unidades) Desde S/. 366,390  (Ref. $ 107,320)  2 dorm- 2 baños 56.05 m2Pisos: 18, 19, 20, 21",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-caral/3886-villa-elenia/planos-villa-elenia-691e3a8c6ce0a_xm.png"
+      },
+      {
+        "nombre": "Flat X3  Piso: 21  Solicitar cita  (1 unidad) Desde S/. 253,000  (Ref. $ 74,107)  1 dorm- 1 baños 40.32 m2Pisos: 21",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-caral/3886-villa-elenia/planos-villa-elenia-691e4142ab507_xm.png"
+      },
+      {
+        "nombre": "Flat X10  Pisos: Entre 2 al 20  Solicitar cita  (18 unidades) Desde S/. 338,588  (Ref. $ 99,176)  2 dorm- 2 baños 56.73 m2Pisos: Entre 2 al 20",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-caral/3886-villa-elenia/planos-villa-elenia-691e33c214714_xm.png"
+      },
+      {
+        "nombre": "Flat X09  Pisos: Entre 4 al 20  Solicitar cita  (14 unidades) Desde S/. 315,421  (Ref. $ 92,390)  2 dorm- 2 baños 54.61 m2Pisos: Entre 4 al 20",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-caral/3886-villa-elenia/planos-villa-elenia-691e33a26b0bd_xm.png"
+      },
+      {
+        "nombre": "Flat X06  Pisos: Entre 3 al 15  Solicitar cita  (7 unidades) Desde S/. 475,566  (Ref. $ 139,299)  3 dorm- 2 baños 74.59 m2Pisos: Entre 3 al 15",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-caral/3886-villa-elenia/planos-villa-elenia-691e344465b77_xm.png"
+      },
+      {
+        "nombre": "Flat X05  Pisos: Entre 2 al 13  Solicitar cita  (11 unidades) Desde S/. 364,908  (Ref. $ 106,886)  2 dorm- 2 baños 57.34 m2Pisos: Entre 2 al 13",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-caral/3886-villa-elenia/planos-villa-elenia-691e32fd51d67_xm.png"
+      },
+      {
+        "nombre": "Flat X03  Pisos: Entre 2 al 14  Solicitar cita  (13 unidades) Desde S/. 422,781  (Ref. $ 123,837)  3 dorm- 2 baños 68.1 m2Pisos: Entre 2 al 14",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-caral/3886-villa-elenia/planos-villa-elenia-691e308853c86_xm.png"
+      },
+      {
+        "nombre": "Flat X02  Pisos: Entre 2 al 21  Solicitar cita  (19 unidades) Desde S/. 405,950  (Ref. $ 118,908)  3 dorm- 2 baños 69.37 m2Pisos: Entre 2 al 21",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-caral/3886-villa-elenia/planos-villa-elenia-691e33e1f1512_xm.png"
+      },
+      {
+        "nombre": "Flat X01  Pisos: Entre 2 al 21  Solicitar cita  (19 unidades) Desde S/. 396,529  (Ref. $ 116,148)  3 dorm- 2 baños 67.76 m2Pisos: Entre 2 al 21",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-caral/3886-villa-elenia/planos-villa-elenia-691e2f6c4a319_xm.png"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "id_nexo": 3746,
+    "nombre": "CAPRI Santa Catalina",
+    "modelos": [
+      {
+        "nombre": "Flat Tipo X08",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/proyec-inmobiliaria/3746-capri-santa-catalina/planos-capri-santa-catalina-687152a032162_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo X07",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/proyec-inmobiliaria/3746-capri-santa-catalina/planos-capri-santa-catalina-6871526bbe803_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo X06",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/proyec-inmobiliaria/3746-capri-santa-catalina/planos-capri-santa-catalina-6871522f72f5a_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo X05",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/proyec-inmobiliaria/3746-capri-santa-catalina/planos-capri-santa-catalina-687152f78bc02_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo X04A",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/proyec-inmobiliaria/3746-capri-santa-catalina/planos-capri-santa-catalina-68715416161a5_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo X04",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/proyec-inmobiliaria/3746-capri-santa-catalina/planos-capri-santa-catalina-687151d75b413_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo X03A",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/proyec-inmobiliaria/3746-capri-santa-catalina/planos-capri-santa-catalina-687153c129bc5_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo X03",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/proyec-inmobiliaria/3746-capri-santa-catalina/planos-capri-santa-catalina-687151bade16d_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo X02",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/proyec-inmobiliaria/3746-capri-santa-catalina/planos-capri-santa-catalina-68715191d1b79_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo X01",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/proyec-inmobiliaria/3746-capri-santa-catalina/planos-capri-santa-catalina-6871517240cc2_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo 1601",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/proyec-inmobiliaria/3746-capri-santa-catalina/planos-capri-santa-catalina-68715491a0e7d_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo 1208",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/proyec-inmobiliaria/3746-capri-santa-catalina/planos-capri-santa-catalina-687153601a65a_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo 1008",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/proyec-inmobiliaria/3746-capri-santa-catalina/planos-capri-santa-catalina-68715321a0c71_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo X08  Pisos: Entre 2 al 9  Solicitar cita  (8 unidades) Desde S/. 267,096  (Ref. $ 78,236)  1 dorm- 1 baños 40.03 m2Pisos: Entre 2 al 9",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/proyec-inmobiliaria/3746-capri-santa-catalina/planos-capri-santa-catalina-687152a032162_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo X07  Pisos: Entre 2 al 15  Solicitar cita  (14 unidades) Desde S/. 337,404  (Ref. $ 98,830)  2 dorm- 2 baños 50.16 m2Pisos: Entre 2 al 15",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/proyec-inmobiliaria/3746-capri-santa-catalina/planos-capri-santa-catalina-6871526bbe803_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo X06  Pisos: Entre 3 al 15  Solicitar cita  (8 unidades) Desde S/. 328,848  (Ref. $ 96,323)  2 dorm- 2 baños 48.9 m2Pisos: Entre 3 al 15",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/proyec-inmobiliaria/3746-capri-santa-catalina/planos-capri-santa-catalina-6871522f72f5a_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo X05  Pisos: Entre 3 al 16  Solicitar cita  (11 unidades) Desde S/. 398,412  (Ref. $ 116,699)  3 dorm- 2 baños 62.31 m2Pisos: Entre 3 al 16",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/proyec-inmobiliaria/3746-capri-santa-catalina/planos-capri-santa-catalina-687152f78bc02_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo X04A  Piso: 13  Solicitar cita  (1 unidad) Desde S/. 368,373  (Ref. $ 107,901)  3 dorm- 2 baños 57.06 m2Pisos: 13",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/proyec-inmobiliaria/3746-capri-santa-catalina/planos-capri-santa-catalina-68715416161a5_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo X04  Pisos: 6, 8, 9, 11  Solicitar cita  (4 unidades) Desde S/. 370,140  (Ref. $ 108,418)  3 dorm- 2 baños 57.06 m2Pisos: 6, 8, 9, 11",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/proyec-inmobiliaria/3746-capri-santa-catalina/planos-capri-santa-catalina-687151d75b413_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo X03A  Pisos: 13, 14, 15, 16  Solicitar cita  (4 unidades) Desde S/. 320,571  (Ref. $ 93,899)  2 dorm- 2 baños 49.59 m2Pisos: 13, 14, 15, 16",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/proyec-inmobiliaria/3746-capri-santa-catalina/planos-capri-santa-catalina-687153c129bc5_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo X03  Pisos: Entre 2 al 11  Solicitar cita  (10 unidades) Desde S/. 316,014  (Ref. $ 92,564)  2 dorm- 2 baños 48.39 m2Pisos: Entre 2 al 11",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/proyec-inmobiliaria/3746-capri-santa-catalina/planos-capri-santa-catalina-687151bade16d_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo X02  Pisos: Entre 2 al 12  Solicitar cita  (11 unidades) Desde S/. 321,222  (Ref. $ 94,090)  2 dorm- 2 baños 49.19 m2Pisos: Entre 2 al 12",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/proyec-inmobiliaria/3746-capri-santa-catalina/planos-capri-santa-catalina-68715191d1b79_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo X01  Pisos: Entre 3 al 14  Solicitar cita  (11 unidades) Desde S/. 263,283  (Ref. $ 77,119)  1 dorm- 1 baños 40.05 m2Pisos: Entre 3 al 14",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/proyec-inmobiliaria/3746-capri-santa-catalina/planos-capri-santa-catalina-6871517240cc2_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo 1601  Piso: 16  Solicitar cita  (1 unidad) Desde S/. 381,207  (Ref. $ 111,660)  2 dorm- 2 baños 62.63 m2Pisos: 16",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/proyec-inmobiliaria/3746-capri-santa-catalina/planos-capri-santa-catalina-68715491a0e7d_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo 1208  Piso: 12  Solicitar cita  (1 unidad) Desde S/. 288,300  (Ref. $ 84,446)  1 dorm- 1 baños 44.04 m2Pisos: 12",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/proyec-inmobiliaria/3746-capri-santa-catalina/planos-capri-santa-catalina-687153601a65a_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo 1008  Piso: 10  Solicitar cita  (1 unidad) Desde S/. 288,300  (Ref. $ 84,446)  1 dorm- 1 baños 44.04 m2Pisos: 10",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/proyec-inmobiliaria/3746-capri-santa-catalina/planos-capri-santa-catalina-68715321a0c71_xm.png"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "id_nexo": 3899,
+    "nombre": "ALLURE - JESÚS MARÍA",
+    "modelos": [
+      {
+        "nombre": "Flat 9",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e6c0b71805_xm.png"
+      },
+      {
+        "nombre": "Flat 8a",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e6aef5b3c3_xm.png"
+      },
+      {
+        "nombre": "Flat 8",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e6b2c12f49_xm.png"
+      },
+      {
+        "nombre": "Flat 7a",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e6a62e2b80_xm.png"
+      },
+      {
+        "nombre": "Flat 7",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e6a98c58db_xm.png"
+      },
+      {
+        "nombre": "Flat 6b",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e69a7a1b7c_xm.png"
+      },
+      {
+        "nombre": "Flat 6",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e6a0d1145e_xm.png"
+      },
+      {
+        "nombre": "Flat 5b",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e68f09457a_xm.png"
+      },
+      {
+        "nombre": "Flat 5",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e692492bc2_xm.png"
+      },
+      {
+        "nombre": "Flat 4b",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e674c47cbc_xm.png"
+      },
+      {
+        "nombre": "Flat 4",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e67675ff82_xm.png"
+      },
+      {
+        "nombre": "Flat 3",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e66c755d90_xm.png"
+      },
+      {
+        "nombre": "Flat 2b",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e659f7e97e_xm.png"
+      },
+      {
+        "nombre": "Flat 2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e65c603248_xm.png"
+      },
+      {
+        "nombre": "Flat 1",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e6534a836f_xm.png"
+      },
+      {
+        "nombre": "Duplex 7b  Piso: 17  Solicitar cita  (1 unidad) Desde S/. 370,368  (Ref. $ 108,485)  2 dorm- 2 baños 57.64 m2Pisos: 17",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e6b57da1d1_xm.png"
+      },
+      {
+        "nombre": "Duplex 5c  Piso: 17  Solicitar cita  (1 unidad) Desde S/. 495,797  (Ref. $ 145,225)  2 dorm- 2 baños 80 m2Pisos: 17",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e695a45a61_xm.png"
+      },
+      {
+        "nombre": "Flat 9  Pisos: Entre 3 al 11  Solicitar cita  (9 unidades) Desde S/. 316,108  (Ref. $ 92,592)  1 dorm- 1 baños 45.24 m2Pisos: Entre 3 al 11",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e6c0b71805_xm.png"
+      },
+      {
+        "nombre": "Flat 8a  Piso: 2  Solicitar cita  (1 unidad) Desde S/. 329,680  (Ref. $ 96,567)  1 dorm- 1 baños 45.24 m2Pisos: 2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e6aef5b3c3_xm.png"
+      },
+      {
+        "nombre": "Flat 8  Pisos: Entre 4 al 16  Solicitar cita  (12 unidades) Desde S/. 370,368  (Ref. $ 108,485)  2 dorm- 2 baños 57.64 m2Pisos: Entre 4 al 16",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e6b2c12f49_xm.png"
+      },
+      {
+        "nombre": "Flat 7a  Piso: 2  Solicitar cita  (1 unidad) Desde S/. 416,480  (Ref. $ 121,992)  2 dorm- 2 baños 57.64 m2Pisos: 2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e6a62e2b80_xm.png"
+      },
+      {
+        "nombre": "Flat 7  Pisos: Entre 3 al 16  Solicitar cita  (13 unidades) Desde S/. 266,580  (Ref. $ 78,084)  1 dorm- 1 baños 40.9 m2Pisos: Entre 3 al 16",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e6a98c58db_xm.png"
+      },
+      {
+        "nombre": "Flat 6b  Piso: 2  Solicitar cita  (1 unidad) Desde S/. 299,300  (Ref. $ 87,668)  1 dorm- 1 baños 40.9 m2Pisos: 2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e69a7a1b7c_xm.png"
+      },
+      {
+        "nombre": "Flat 6  Pisos: Entre 3 al 12  Solicitar cita  (7 unidades) Desde S/. 265,000  (Ref. $ 77,622)  1 dorm- 1 baños 40 m2Pisos: Entre 3 al 12",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e6a0d1145e_xm.png"
+      },
+      {
+        "nombre": "Flat 5b  Piso: 2  Solicitar cita  (1 unidad) Desde S/. 293,000  (Ref. $ 85,823)  1 dorm- 1 baños 40 m2Pisos: 2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e68f09457a_xm.png"
+      },
+      {
+        "nombre": "Flat 5  Pisos: Entre 3 al 11  Solicitar cita  (8 unidades) Desde S/. 265,756  (Ref. $ 77,843)  1 dorm- 1 baños 40.12 m2Pisos: Entre 3 al 11",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e692492bc2_xm.png"
+      },
+      {
+        "nombre": "Flat 4b  Piso: 2  Solicitar cita  (1 unidad) Desde S/. 293,840  (Ref. $ 86,069)  1 dorm- 1 baños 40.12 m2Pisos: 2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e674c47cbc_xm.png"
+      },
+      {
+        "nombre": "Flat 4  Pisos: Entre 3 al 17  Solicitar cita  (13 unidades) Desde S/. 365,966  (Ref. $ 107,196)  2 dorm- 2 baños 56.93 m2Pisos: Entre 3 al 17",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e67675ff82_xm.png"
+      },
+      {
+        "nombre": "Flat 3  Pisos: Entre 3 al 17  Solicitar cita  (13 unidades) Desde S/. 267,200  (Ref. $ 78,266)  1 dorm- 1 baños 41 m2Pisos: Entre 3 al 17",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e66c755d90_xm.png"
+      },
+      {
+        "nombre": "Flat 2b  Piso: 2  Solicitar cita  (1 unidad) Desde S/. 300,000  (Ref. $ 87,873)  1 dorm- 1 baños 41 m2Pisos: 2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e659f7e97e_xm.png"
+      },
+      {
+        "nombre": "Flat 2  Pisos: Entre 3 al 15  Solicitar cita  (9 unidades) Desde S/. 385,654  (Ref. $ 112,963)  2 dorm- 2 baños 55.62 m2Pisos: Entre 3 al 15",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e65c603248_xm.png"
+      },
+      {
+        "nombre": "Flat 1  Pisos: Entre 3 al 17  Solicitar cita  (11 unidades) Desde S/. 378,310  (Ref. $ 110,811)  2 dorm- 2 baños 55.35 m2Pisos: Entre 3 al 17",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e6534a836f_xm.png"
+      },
+      {
+        "nombre": "Duplex 7b  Piso: 17  Solicitar cita  (1 unidad) Desde S/. 370,368  (Ref. $ 108,485)  2 dorm- 2 baños 57.64 m2Pisos: 17",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e6b57da1d1_xm.png"
+      },
+      {
+        "nombre": "Duplex 5c  Piso: 17  Solicitar cita  (1 unidad) Desde S/. 495,797  (Ref. $ 145,225)  2 dorm- 2 baños 80 m2Pisos: 17",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/grupo-mg/3899-allure-jesus-maria/planos-allure-jesus-maria-696e695a45a61_xm.png"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "id_nexo": 3871,
+    "nombre": "Residencial Leyendas II",
+    "modelos": [
+      {
+        "nombre": "Flat Tipo3",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/multiurbe/3871-residencial-leyendas-ii/planos-residencial-leyendas-ii-688a7f84c7636_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo2",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/multiurbe/3871-residencial-leyendas-ii/planos-residencial-leyendas-ii-688a7f59ccb2c_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo1",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/multiurbe/3871-residencial-leyendas-ii/planos-residencial-leyendas-ii-688a7f45e161d_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo3  Pisos: 4 y 6  Solicitar cita  (2 unidades) Desde S/. 649,000  (Ref. $ 190,100)  4 dorm- 2 baños 93.3 m2Pisos: 4 y 6",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/multiurbe/3871-residencial-leyendas-ii/planos-residencial-leyendas-ii-688a7f84c7636_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo2  Pisos: 2, 3, 4  Solicitar cita  (3 unidades) Desde S/. 480,000  (Ref. $ 140,598)  3 dorm- 2 baños 70.1 m2Pisos: 2, 3, 4",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/multiurbe/3871-residencial-leyendas-ii/planos-residencial-leyendas-ii-688a7f59ccb2c_xm.png"
+      },
+      {
+        "nombre": "Flat Tipo1  Pisos: 2, 3, 5  Solicitar cita  (3 unidades) Desde S/. 269,000  (Ref. $ 78,793)  1 dorm- 1 baños 41.1 m2Pisos: 2, 3, 5",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/multiurbe/3871-residencial-leyendas-ii/planos-residencial-leyendas-ii-688a7f45e161d_xm.png"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "id_nexo": 3476,
+    "nombre": "Element",
+    "modelos": [
+      {
+        "nombre": "Flat 8B",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-682de9df11140_xm.jpg"
+      },
+      {
+        "nombre": "Flat 8A",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-682de9a11658d_xm.jpg"
+      },
+      {
+        "nombre": "Flat 6A",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-682de95d2be8a_xm.jpg"
+      },
+      {
+        "nombre": "Flat 5B",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-682de934325af_xm.jpg"
+      },
+      {
+        "nombre": "Flat 4A",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-682de916bf4f1_xm.jpg"
+      },
+      {
+        "nombre": "Flat 3B",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-682de90145a25_xm.jpg"
+      },
+      {
+        "nombre": "Flat 2A",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-682de8c5325d2_xm.jpg"
+      },
+      {
+        "nombre": "Flat 1B",
+        "plano_url": null
+      },
+      {
+        "nombre": "Flat 1A",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-682de73541052_xm.jpg"
+      },
+      {
+        "nombre": "Flat 16A",
+        "plano_url": null
+      },
+      {
+        "nombre": "Flat 13E",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-683505e314b4f_xm.jpg"
+      },
+      {
+        "nombre": "Flat 12B",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-682deaf095108_xm.jpg"
+      },
+      {
+        "nombre": "Flat 11D",
+        "plano_url": null
+      },
+      {
+        "nombre": "Flat 11C",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-682deaba1b20d_xm.jpg"
+      },
+      {
+        "nombre": "Flat 11B",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-682dea9719d2e_xm.jpg"
+      },
+      {
+        "nombre": "Flat 10B",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-682dea7397193_xm.jpg"
+      },
+      {
+        "nombre": "Flat 10A",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-682dea448d7d4_xm.jpg"
+      },
+      {
+        "nombre": "Flat 8B  Pisos: 8, 12, 13  Solicitar cita  (3 unidades) Desde S/. 435,359  (Ref. $ 127,522)  2 dorm- 2 baños 55.77 m2Pisos: 8, 12, 13",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-682de9df11140_xm.jpg"
+      },
+      {
+        "nombre": "Flat 8A  Piso: 4  Solicitar cita  (1 unidad) Desde S/. 424,892  (Ref. $ 124,456)  2 dorm- 2 baños 56.25 m2Pisos: 4",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-682de9a11658d_xm.jpg"
+      },
+      {
+        "nombre": "Flat 6A  Pisos: Entre 3 al 22  Solicitar cita  (13 unidades) Desde S/. 342,874  (Ref. $ 100,432)  1 dorm- 1 baños 39.87 m2Pisos: Entre 3 al 22",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-682de95d2be8a_xm.jpg"
+      },
+      {
+        "nombre": "Flat 5B  Pisos: 4, 6, 8, 9  Solicitar cita  (4 unidades) Desde S/. 344,143  (Ref. $ 100,803)  1 dorm- 1 baños 39.87 m2Pisos: 4, 6, 8, 9",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-682de934325af_xm.jpg"
+      },
+      {
+        "nombre": "Flat 4A  Pisos: Entre 3 al 22  Solicitar cita  (6 unidades) Desde S/. 342,874  (Ref. $ 100,432)  1 dorm- 1 baños 39.87 m2Pisos: Entre 3 al 22",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-682de916bf4f1_xm.jpg"
+      },
+      {
+        "nombre": "Flat 3B  Pisos: 4 y 6  Solicitar cita  (2 unidades) Desde S/. 336,825  (Ref. $ 98,660)  1 dorm- 1 baños 36.43 m2Pisos: 4 y 6",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-682de90145a25_xm.jpg"
+      },
+      {
+        "nombre": "Flat 2A  Pisos: Entre 4 al 22  Solicitar cita  (8 unidades) Desde S/. 278,168  (Ref. $ 81,479)  1 dorm- 1 baños 28.91 m2Pisos: Entre 4 al 22",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-682de8c5325d2_xm.jpg"
+      },
+      {
+        "nombre": "Flat 1B  Piso: 22  Solicitar cita  (1 unidad) Desde S/. 297,102  (Ref. $ 87,025)  1 dorm- 1 baños 30.31 m2Pisos: 22",
+        "plano_url": null
+      },
+      {
+        "nombre": "Flat 1A  Pisos: 4, 13, 16, 17  Solicitar cita  (4 unidades) Desde S/. 283,166  (Ref. $ 82,943)  1 dorm- 1 baños 30.72 m2Pisos: 4, 13, 16, 17",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-682de73541052_xm.jpg"
+      },
+      {
+        "nombre": "Flat 16A  Piso: 20  Solicitar cita  (1 unidad) Desde S/. 490,652  (Ref. $ 143,718)  2 dorm- 2 baños 57.43 m2Pisos: 20",
+        "plano_url": null
+      },
+      {
+        "nombre": "Flat 13E  Piso: 22  Solicitar cita  (1 unidad) Desde S/. 507,498  (Ref. $ 148,652)  3 dorm- 2 baños 60.13 m2Pisos: 22",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-683505e314b4f_xm.jpg"
+      },
+      {
+        "nombre": "Flat 12B  Pisos: 4, 6, 8, 9, 10  Solicitar cita  (5 unidades) Desde S/. 329,993  (Ref. $ 96,659)  1 dorm- 1 baños 40.19 m2Pisos: 4, 6, 8, 9, 10",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-682deaf095108_xm.jpg"
+      },
+      {
+        "nombre": "Flat 11D  Piso: 22  Solicitar cita  (1 unidad) Desde S/. 349,563  (Ref. $ 102,391)  1 dorm- 1 baños 41.14 m2Pisos: 22",
+        "plano_url": null
+      },
+      {
+        "nombre": "Flat 11C  Pisos: 13, 14, 16, 17  Solicitar cita  (4 unidades) Desde S/. 339,993  (Ref. $ 99,588)  1 dorm- 1 baños 41.41 m2Pisos: 13, 14, 16, 17",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-682deaba1b20d_xm.jpg"
+      },
+      {
+        "nombre": "Flat 11B  Piso: 6  Solicitar cita  (1 unidad) Desde S/. 329,427  (Ref. $ 96,493)  1 dorm- 1 baños 41.67 m2Pisos: 6",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-682dea9719d2e_xm.jpg"
+      },
+      {
+        "nombre": "Flat 10B  Piso: 14  Solicitar cita  (1 unidad) Desde S/. 344,625  (Ref. $ 100,945)  1 dorm- 1 baños 40.13 m2Pisos: 14",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-682dea7397193_xm.jpg"
+      },
+      {
+        "nombre": "Flat 10A  Pisos: 8 y 10  Solicitar cita  (2 unidades) Desde S/. 337,440  (Ref. $ 98,840)  1 dorm- 1 baños 40.39 m2Pisos: 8 y 10",
+        "plano_url": "https://dp34qvsykz8fe.cloudfront.net/customers/gerencia-de-proyectos-edifica-s-a-c/3476-element/planos-element-682dea448d7d4_xm.jpg"
+      }
+    ]
+  }
+]

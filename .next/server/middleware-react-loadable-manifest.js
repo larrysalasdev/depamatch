@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST="{}"
+self.__REACT_LOADABLE_MANIFEST="{\"components\\\\app\\\\AppShell.jsx -> ./MapaLeaflet\":{\"id\":\"components\\\\app\\\\AppShell.jsx -> ./MapaLeaflet\",\"files\":[\"static/chunks/_app-pages-browser_components_app_MapaLeaflet_jsx.js\"]}}"

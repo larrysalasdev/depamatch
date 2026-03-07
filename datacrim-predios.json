@@ -1,0 +1,236 @@
+{
+  "1": {
+    "nombre": "LUMA - SAN MIGUEL",
+    "lat": -12.074269830357485,
+    "lng": -77.09553037282942,
+    "radio_km": 0.5,
+    "total_500m_2024": 495,
+    "por_tipo": {
+      "Robo agravado": 3,
+      "Robo agravado armado": 2,
+      "Robo": 32,
+      "Hurto": 150,
+      "Hurto agravado": 20,
+      "Homicidio calificado": 1,
+      "Homicidio por arma de fuego": 0,
+      "Microcomercializacion drogas": 1,
+      "Estafa y defraudaciones": 40
+    }
+  },
+  "2": {
+    "nombre": "Vista Tower",
+    "lat": -12.106446628330005,
+    "lng": -77.02698161439235,
+    "radio_km": 0.5,
+    "total_500m_2024": 727,
+    "por_tipo": {
+      "Robo agravado": 16,
+      "Robo agravado armado": 6,
+      "Robo": 49,
+      "Hurto": 404,
+      "Hurto agravado": 54,
+      "Homicidio calificado": 0,
+      "Homicidio por arma de fuego": 0,
+      "Microcomercializacion drogas": 2,
+      "Estafa y defraudaciones": 36
+    }
+  },
+  "3": {
+    "nombre": "Supra Tower",
+    "lat": -12.08057097684937,
+    "lng": -77.09539747479998,
+    "radio_km": 0.5,
+    "total_500m_2024": 476,
+    "por_tipo": {
+      "Robo agravado": 3,
+      "Robo agravado armado": 4,
+      "Robo": 34,
+      "Hurto": 106,
+      "Hurto agravado": 15,
+      "Homicidio calificado": 1,
+      "Homicidio por arma de fuego": 0,
+      "Microcomercializacion drogas": 3,
+      "Estafa y defraudaciones": 49
+    }
+  },
+  "4": {
+    "nombre": "Albamar | Aura",
+    "lat": -12.102881899200815,
+    "lng": -77.02090817061273,
+    "radio_km": 0.5,
+    "total_500m_2024": 464,
+    "por_tipo": {
+      "Robo agravado": 5,
+      "Robo agravado armado": 2,
+      "Robo": 32,
+      "Hurto": 142,
+      "Hurto agravado": 15,
+      "Homicidio calificado": 1,
+      "Homicidio por arma de fuego": 0,
+      "Microcomercializacion drogas": 2,
+      "Estafa y defraudaciones": 25
+    }
+  },
+  "5": {
+    "nombre": "Proyecto Libertad",
+    "lat": -12.079792111220133,
+    "lng": -77.09602768461193,
+    "radio_km": 0.5,
+    "total_500m_2024": 460,
+    "por_tipo": {
+      "Robo agravado": 3,
+      "Robo agravado armado": 4,
+      "Robo": 35,
+      "Hurto": 100,
+      "Hurto agravado": 18,
+      "Homicidio calificado": 1,
+      "Homicidio por arma de fuego": 0,
+      "Microcomercializacion drogas": 2,
+      "Estafa y defraudaciones": 47
+    }
+  },
+  "6": {
+    "nombre": "Quiñones Park",
+    "lat": -12.07511376386756,
+    "lng": -77.09063821902431,
+    "radio_km": 0.5,
+    "total_500m_2024": 438,
+    "por_tipo": {
+      "Robo agravado": 6,
+      "Robo agravado armado": 5,
+      "Robo": 76,
+      "Hurto": 150,
+      "Hurto agravado": 20,
+      "Homicidio calificado": 0,
+      "Homicidio por arma de fuego": 0,
+      "Microcomercializacion drogas": 2,
+      "Estafa y defraudaciones": 44
+    }
+  },
+  "7": {
+    "nombre": "DANAUS - SURQUILLO",
+    "lat": -12.102958671075562,
+    "lng": -77.01942388721014,
+    "radio_km": 0.5,
+    "total_500m_2024": 483,
+    "por_tipo": {
+      "Robo agravado": 5,
+      "Robo agravado armado": 1,
+      "Robo": 41,
+      "Hurto": 145,
+      "Hurto agravado": 20,
+      "Homicidio calificado": 1,
+      "Homicidio por arma de fuego": 0,
+      "Microcomercializacion drogas": 2,
+      "Estafa y defraudaciones": 25
+    }
+  },
+  "8": {
+    "nombre": "ALBORADA III - SAN MIGUEL",
+    "lat": -12.07943899422627,
+    "lng": -77.09055696838038,
+    "radio_km": 0.5,
+    "total_500m_2024": 387,
+    "por_tipo": {
+      "Robo agravado": 2,
+      "Robo agravado armado": 3,
+      "Robo": 32,
+      "Hurto": 120,
+      "Hurto agravado": 17,
+      "Homicidio calificado": 0,
+      "Homicidio por arma de fuego": 0,
+      "Microcomercializacion drogas": 2,
+      "Estafa y defraudaciones": 40
+    }
+  },
+  "9": {
+    "nombre": "Villa Elenia",
+    "lat": -12.107571057927968,
+    "lng": -77.02691071393785,
+    "radio_km": 0.5,
+    "total_500m_2024": 831,
+    "por_tipo": {
+      "Robo agravado": 19,
+      "Robo agravado armado": 6,
+      "Robo": 69,
+      "Hurto": 462,
+      "Hurto agravado": 69,
+      "Homicidio calificado": 0,
+      "Homicidio por arma de fuego": 0,
+      "Microcomercializacion drogas": 4,
+      "Estafa y defraudaciones": 39
+    }
+  },
+  "10": {
+    "nombre": "CAPRI Santa Catalina",
+    "lat": -12.069745340311353,
+    "lng": -77.02361518872351,
+    "radio_km": 0.5,
+    "total_500m_2024": 435,
+    "por_tipo": {
+      "Robo agravado": 17,
+      "Robo agravado armado": 6,
+      "Robo": 131,
+      "Hurto": 125,
+      "Hurto agravado": 17,
+      "Homicidio calificado": 0,
+      "Homicidio por arma de fuego": 0,
+      "Microcomercializacion drogas": 3,
+      "Estafa y defraudaciones": 8
+    }
+  },
+  "11": {
+    "nombre": "ALLURE - JESÚS MARÍA",
+    "lat": -12.07611986959548,
+    "lng": -77.04923207264208,
+    "radio_km": 0.5,
+    "total_500m_2024": 967,
+    "por_tipo": {
+      "Robo agravado": 30,
+      "Robo agravado armado": 13,
+      "Robo": 58,
+      "Hurto": 239,
+      "Hurto agravado": 96,
+      "Homicidio calificado": 0,
+      "Homicidio por arma de fuego": 0,
+      "Microcomercializacion drogas": 1,
+      "Estafa y defraudaciones": 93
+    }
+  },
+  "12": {
+    "nombre": "Residencial Leyendas II",
+    "lat": -12.074359792474498,
+    "lng": -77.09143720080594,
+    "radio_km": 0.5,
+    "total_500m_2024": 433,
+    "por_tipo": {
+      "Robo agravado": 3,
+      "Robo agravado armado": 1,
+      "Robo": 40,
+      "Hurto": 166,
+      "Hurto agravado": 21,
+      "Homicidio calificado": 0,
+      "Homicidio por arma de fuego": 0,
+      "Microcomercializacion drogas": 2,
+      "Estafa y defraudaciones": 47
+    }
+  },
+  "13": {
+    "nombre": "Element",
+    "lat": -12.107381207147446,
+    "lng": -77.01800542978195,
+    "radio_km": 0.5,
+    "total_500m_2024": 551,
+    "por_tipo": {
+      "Robo agravado": 2,
+      "Robo agravado armado": 2,
+      "Robo": 61,
+      "Hurto": 125,
+      "Hurto agravado": 22,
+      "Homicidio calificado": 0,
+      "Homicidio por arma de fuego": 0,
+      "Microcomercializacion drogas": 7,
+      "Estafa y defraudaciones": 26
+    }
+  }
+}

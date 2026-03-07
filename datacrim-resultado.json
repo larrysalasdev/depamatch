@@ -1,0 +1,353 @@
+{
+  "150101": {
+    "distrito": "Lima",
+    "total_2024": 26068,
+    "por_tipo": {
+      "Robo agravado": 891,
+      "Robo agravado a mano armada": 335,
+      "Robo": 3233,
+      "Hurto": 8307,
+      "Hurto agravado": 1601,
+      "Hurto de vehiculo": 669,
+      "Asalto y robo de vehiculos": 149,
+      "Homicidio calificado": 14,
+      "Homicidio por arma de fuego": 33,
+      "Hurto agravado en casa habitada": 80,
+      "Robo frustrado": 2,
+      "Robo agravado nocturno": 15,
+      "Microcomercializacion de drogas": 159,
+      "Hurto frustrado": 13,
+      "Estafa y defraudaciones": 1279
+    },
+    "por_categoria": {
+      "Delitos contra el patrimonio": 22067,
+      "Delitos contra la vida y salud": 1059,
+      "Delitos contra la libertad": 1012,
+      "Otros delitos": 644
+    }
+  },
+  "150102": {
+    "distrito": "Barranco",
+    "total_2024": 1474,
+    "por_tipo": {
+      "Robo agravado": 71,
+      "Robo agravado a mano armada": 28,
+      "Robo": 162,
+      "Hurto": 202,
+      "Hurto agravado": 83,
+      "Hurto de vehiculo": 54,
+      "Asalto y robo de vehiculos": 11,
+      "Homicidio calificado": 0,
+      "Homicidio por arma de fuego": 8,
+      "Hurto agravado en casa habitada": 4,
+      "Robo frustrado": 1,
+      "Robo agravado nocturno": 2,
+      "Microcomercializacion de drogas": 40,
+      "Hurto frustrado": 1,
+      "Estafa y defraudaciones": 43
+    },
+    "por_categoria": {
+      "Delitos contra el patrimonio": 888,
+      "Delitos contra la vida y salud": 102,
+      "Delitos contra la libertad": 130,
+      "Otros delitos": 68
+    }
+  },
+  "150116": {
+    "distrito": "Miraflores",
+    "total_2024": 3716,
+    "por_tipo": {
+      "Robo agravado": 109,
+      "Robo agravado a mano armada": 43,
+      "Robo": 430,
+      "Hurto": 1390,
+      "Hurto agravado": 230,
+      "Hurto de vehiculo": 95,
+      "Asalto y robo de vehiculos": 10,
+      "Homicidio calificado": 0,
+      "Homicidio por arma de fuego": 2,
+      "Hurto agravado en casa habitada": 6,
+      "Robo frustrado": 1,
+      "Robo agravado nocturno": 2,
+      "Microcomercializacion de drogas": 10,
+      "Hurto frustrado": 6,
+      "Estafa y defraudaciones": 205
+    },
+    "por_categoria": {
+      "Delitos contra el patrimonio": 3235,
+      "Delitos contra la vida y salud": 141,
+      "Delitos contra la libertad": 104,
+      "Otros delitos": 99
+    }
+  },
+  "150117": {
+    "distrito": "Jesus Maria",
+    "total_2024": 10936,
+    "por_tipo": {
+      "Robo agravado": 802,
+      "Robo agravado a mano armada": 221,
+      "Robo": 1936,
+      "Hurto": 1961,
+      "Hurto agravado": 727,
+      "Hurto de vehiculo": 646,
+      "Asalto y robo de vehiculos": 140,
+      "Homicidio calificado": 2,
+      "Homicidio por arma de fuego": 25,
+      "Hurto agravado en casa habitada": 84,
+      "Robo frustrado": 1,
+      "Robo agravado nocturno": 3,
+      "Microcomercializacion de drogas": 45,
+      "Hurto frustrado": 1,
+      "Estafa y defraudaciones": 649
+    },
+    "por_categoria": {
+      "Delitos contra el patrimonio": 9152,
+      "Delitos contra la vida y salud": 361,
+      "Delitos contra la libertad": 498,
+      "Otros delitos": 264
+    }
+  },
+  "150118": {
+    "distrito": "Lince",
+    "total_2024": 5190,
+    "por_tipo": {
+      "Robo agravado": 265,
+      "Robo agravado a mano armada": 71,
+      "Robo": 609,
+      "Hurto": 970,
+      "Hurto agravado": 337,
+      "Hurto de vehiculo": 171,
+      "Asalto y robo de vehiculos": 48,
+      "Homicidio calificado": 7,
+      "Homicidio por arma de fuego": 8,
+      "Hurto agravado en casa habitada": 50,
+      "Robo frustrado": 0,
+      "Robo agravado nocturno": 6,
+      "Microcomercializacion de drogas": 20,
+      "Hurto frustrado": 7,
+      "Estafa y defraudaciones": 257
+    },
+    "por_categoria": {
+      "Delitos contra el patrimonio": 3674,
+      "Delitos contra la vida y salud": 548,
+      "Delitos contra la libertad": 416,
+      "Otros delitos": 118
+    }
+  },
+  "150120": {
+    "distrito": "Pueblo Libre",
+    "total_2024": 1443,
+    "por_tipo": {
+      "Robo agravado": 20,
+      "Robo agravado a mano armada": 14,
+      "Robo": 114,
+      "Hurto": 395,
+      "Hurto agravado": 61,
+      "Hurto de vehiculo": 34,
+      "Asalto y robo de vehiculos": 0,
+      "Homicidio calificado": 0,
+      "Homicidio por arma de fuego": 0,
+      "Hurto agravado en casa habitada": 7,
+      "Robo frustrado": 0,
+      "Robo agravado nocturno": 0,
+      "Microcomercializacion de drogas": 5,
+      "Hurto frustrado": 0,
+      "Estafa y defraudaciones": 180
+    },
+    "por_categoria": {
+      "Delitos contra el patrimonio": 1233,
+      "Delitos contra la vida y salud": 48,
+      "Delitos contra la libertad": 56,
+      "Otros delitos": 56
+    }
+  },
+  "150121": {
+    "distrito": "Magdalena",
+    "total_2024": 1631,
+    "por_tipo": {
+      "Robo agravado": 72,
+      "Robo agravado a mano armada": 22,
+      "Robo": 119,
+      "Hurto": 256,
+      "Hurto agravado": 137,
+      "Hurto de vehiculo": 64,
+      "Asalto y robo de vehiculos": 52,
+      "Homicidio calificado": 0,
+      "Homicidio por arma de fuego": 0,
+      "Hurto agravado en casa habitada": 23,
+      "Robo frustrado": 0,
+      "Robo agravado nocturno": 1,
+      "Microcomercializacion de drogas": 9,
+      "Hurto frustrado": 3,
+      "Estafa y defraudaciones": 102
+    },
+    "por_categoria": {
+      "Delitos contra el patrimonio": 1317,
+      "Delitos contra la vida y salud": 41,
+      "Delitos contra la libertad": 114,
+      "Otros delitos": 58
+    }
+  },
+  "150122": {
+    "distrito": "La Victoria",
+    "total_2024": 10682,
+    "por_tipo": {
+      "Robo agravado": 371,
+      "Robo agravado a mano armada": 186,
+      "Robo": 677,
+      "Hurto": 4404,
+      "Hurto agravado": 1544,
+      "Hurto de vehiculo": 143,
+      "Asalto y robo de vehiculos": 1,
+      "Homicidio calificado": 0,
+      "Homicidio por arma de fuego": 5,
+      "Hurto agravado en casa habitada": 22,
+      "Robo frustrado": 1,
+      "Robo agravado nocturno": 4,
+      "Microcomercializacion de drogas": 6,
+      "Hurto frustrado": 10,
+      "Estafa y defraudaciones": 574
+    },
+    "por_categoria": {
+      "Delitos contra el patrimonio": 9832,
+      "Delitos contra la vida y salud": 173,
+      "Delitos contra la libertad": 245,
+      "Otros delitos": 161
+    }
+  },
+  "150128": {
+    "distrito": "San Borja",
+    "total_2024": 6341,
+    "por_tipo": {
+      "Robo agravado": 308,
+      "Robo agravado a mano armada": 100,
+      "Robo": 704,
+      "Hurto": 1058,
+      "Hurto agravado": 483,
+      "Hurto de vehiculo": 124,
+      "Asalto y robo de vehiculos": 5,
+      "Homicidio calificado": 2,
+      "Homicidio por arma de fuego": 12,
+      "Hurto agravado en casa habitada": 25,
+      "Robo frustrado": 1,
+      "Robo agravado nocturno": 11,
+      "Microcomercializacion de drogas": 39,
+      "Hurto frustrado": 5,
+      "Estafa y defraudaciones": 229
+    },
+    "por_categoria": {
+      "Delitos contra el patrimonio": 5164,
+      "Delitos contra la vida y salud": 388,
+      "Delitos contra la libertad": 264,
+      "Otros delitos": 149
+    }
+  },
+  "150130": {
+    "distrito": "San Isidro",
+    "total_2024": 3780,
+    "por_tipo": {
+      "Robo agravado": 44,
+      "Robo agravado a mano armada": 24,
+      "Robo": 355,
+      "Hurto": 1196,
+      "Hurto agravado": 134,
+      "Hurto de vehiculo": 127,
+      "Asalto y robo de vehiculos": 0,
+      "Homicidio calificado": 0,
+      "Homicidio por arma de fuego": 3,
+      "Hurto agravado en casa habitada": 70,
+      "Robo frustrado": 0,
+      "Robo agravado nocturno": 1,
+      "Microcomercializacion de drogas": 7,
+      "Hurto frustrado": 0,
+      "Estafa y defraudaciones": 321
+    },
+    "por_categoria": {
+      "Delitos contra el patrimonio": 3223,
+      "Delitos contra la vida y salud": 86,
+      "Delitos contra la libertad": 114,
+      "Otros delitos": 92
+    }
+  },
+  "150131": {
+    "distrito": "Surquillo",
+    "total_2024": 4440,
+    "por_tipo": {
+      "Robo agravado": 35,
+      "Robo agravado a mano armada": 20,
+      "Robo": 235,
+      "Hurto": 2152,
+      "Hurto agravado": 160,
+      "Hurto de vehiculo": 50,
+      "Asalto y robo de vehiculos": 1,
+      "Homicidio calificado": 0,
+      "Homicidio por arma de fuego": 0,
+      "Hurto agravado en casa habitada": 20,
+      "Robo frustrado": 0,
+      "Robo agravado nocturno": 1,
+      "Microcomercializacion de drogas": 8,
+      "Hurto frustrado": 1,
+      "Estafa y defraudaciones": 301
+    },
+    "por_categoria": {
+      "Delitos contra el patrimonio": 4033,
+      "Delitos contra la vida y salud": 81,
+      "Delitos contra la libertad": 144,
+      "Otros delitos": 95
+    }
+  },
+  "150136": {
+    "distrito": "San Miguel",
+    "total_2024": 3454,
+    "por_tipo": {
+      "Robo agravado": 47,
+      "Robo agravado a mano armada": 20,
+      "Robo": 410,
+      "Hurto": 844,
+      "Hurto agravado": 180,
+      "Hurto de vehiculo": 85,
+      "Asalto y robo de vehiculos": 7,
+      "Homicidio calificado": 2,
+      "Homicidio por arma de fuego": 4,
+      "Hurto agravado en casa habitada": 14,
+      "Robo frustrado": 0,
+      "Robo agravado nocturno": 0,
+      "Microcomercializacion de drogas": 13,
+      "Hurto frustrado": 7,
+      "Estafa y defraudaciones": 360
+    },
+    "por_categoria": {
+      "Delitos contra el patrimonio": 2908,
+      "Delitos contra la vida y salud": 84,
+      "Delitos contra la libertad": 149,
+      "Otros delitos": 124
+    }
+  },
+  "150140": {
+    "distrito": "Surco",
+    "total_2024": 11715,
+    "por_tipo": {
+      "Robo agravado": 244,
+      "Robo agravado a mano armada": 206,
+      "Robo": 1338,
+      "Hurto": 4015,
+      "Hurto agravado": 684,
+      "Hurto de vehiculo": 374,
+      "Asalto y robo de vehiculos": 28,
+      "Homicidio calificado": 1,
+      "Homicidio por arma de fuego": 5,
+      "Hurto agravado en casa habitada": 178,
+      "Robo frustrado": 2,
+      "Robo agravado nocturno": 2,
+      "Microcomercializacion de drogas": 14,
+      "Hurto frustrado": 9,
+      "Estafa y defraudaciones": 654
+    },
+    "por_categoria": {
+      "Delitos contra el patrimonio": 10155,
+      "Delitos contra la vida y salud": 433,
+      "Delitos contra la libertad": 471,
+      "Otros delitos": 271
+    }
+  }
+}
