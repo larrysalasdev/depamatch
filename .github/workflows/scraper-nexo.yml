@@ -1,0 +1,52 @@
+name: Scraper Nexo Supabase
+
+on:
+  schedule:
+    - cron: '0 14 * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: scrapers/package.json
+
+      - name: Install dependencies
+        working-directory: scrapers
+        run: npm install
+
+      - name: Install Playwright browsers
+        working-directory: scrapers
+        run: npx playwright install chromium --with-deps
+
+      - name: Run Nexo scraper
+        working-directory: scrapers
+        env:
+          NEXO_EMAIL: ${{ secrets.NEXO_EMAIL }}
+          NEXO_PASSWORD: ${{ secrets.NEXO_PASSWORD }}
+        run: node nexoagentes-scraper.js
+
+      - name: Upload to Supabase
+        working-directory: scrapers
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: node nexo-to-supabase.js
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: nexo-raw-${{ github.run_number }}
+          path: scrapers/nexo-raw.json
+          retention-days: 7
